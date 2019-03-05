@@ -1,0 +1,626 @@
+ID,PrimaryStreet,StreetMap,Location,Latitude,Longitude,Source,1972,1981,1987,1989,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,AMPeak1972,AMPeak1981,AMPeak1987,AMPeak1989,AMPeak1994,AMPeak1995,AMPeak1996,AMPeak1997,AMPeak1998,AMPeak1999,AMPeak2000,AMPeak2001,AMPeak2002,AMPeak2003,AMPeak2004,AMPeak2005,AMPeak2006,AMPeak2007,AMPeak2008,AMPeak2009,AMPeak2010,AMPeak2011,AMPeak2012,AMPeak2013,AMPeak2014,AM Peak 2015,AM Peak 2016,AM Peak 2017,PMPeak1972,PMPeak1981,PMPeak1987,PMPeak1989,PMPeak1994,PMPeak1995,PMPeak1996,PMPeak1997,PMPeak1998,PMPeak1999,PMPeak2000,PMPeak2001,PMPeak2002,PMPeak2003,PMPeak2004,PMPeak2005,PMPeak2006,PMPeak2007,PMPeak2008,PMPeak2009,PMPeak2010,PMPeak2011,PMPeak2012,PMPeak2013,PMPeak2014,PM Peak 2015,PM Peak 2016,PM Peak 2017,Classification Counts
+1,Massachusetts Avenue,MASS AVE,"South of Upland Road
+(42.3879544330999, -71.119331699400007)",42.38795443,-71.1193317,"Cordon Counts, Transportation Data Corporation",,,,,,,,,,29562,,,,,,,,,,,,,,,,,,,,,,,,,,,,1682,,,,,,,,,,,,,,,,,,,,,,,,,,,,2143,,,,,,,,,,,,,,,,,,,
+2,Upland Road,Upland Rd,"West of Massachusetts Avenue
+(42.387467527399899, -71.120659863200004)",42.38746753,-71.12065986,"Cordon Counts, Accurate Counts 5/14/99",,,,,,,,,,5507,,,,,,,,,,,,,,,,,,,,,,,,,,,,379,,,,,,,,,,,,,,,,,,,,,,,,,,,,454,,,,,,,,,,,,,,,,,,,
+3,Brattle Street,BRATTLE ST,"East of Ash Street
+(42.375767443500003, -71.124021953400003)",42.37576744,-71.12402195,"Cordon Counts, Accurate counts 5/10/99",,,,,,,,,,2771,,,,,,,,,,,,,,,,,,,,,,,,,,,,149,,,,,,,,,,,,,,,,,,,,,,,,,,,,276,,,,,,,,,,,,,,,,,,,
+4,Broadway,BROADWAY ST,"West of Prescott St
+(42.374517069500001, -71.1138922863)",42.37451707,-71.11389229,"Cordon Counts, Accurate Counts 5/10/99",,,,,,,,,,12636,,,,,,,,,,,,,,,,,,,,,,,,,,,,771,,,,,,,,,,,,,,,,,,,,,,,,,,,,891,,,,,,,,,,,,,,,,,,,
+5,Main Street,MAIN ST,"Between Portland St. &amp; Osborn St.
+(42.363037104199897, -71.094447693800007)",42.3630371,-71.09444769,"650 Main Street Office and/or R & D Project, TIS, Nov. 6, 2008.  Novartis TIS, Sept. 2011. counts done May 2011.",,,,,,,,,,,,,,,,,,,8629,,,7597,,,,,,,,,,,,,,,,,,,,,,,,,678,,,519,,,,,,,,,,,,,,,,,,,,,,,,,764,,,684,,,,,,,
+6,Portland Street,PORTLAND ST,"Between Main St. &amp; Albany St.
+(42.362449417800001, -71.093699905400001)",42.36244942,-71.09369991,"650 Main Street Office and/or R&D Project TIS, Nov. 6, 2008.",,,,,,,,,,,,,,,,,,,4174,,,,,,,,,,,,,,,,,,,,,,,,,,,,374,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,,,,,,,,,,
+8,Water Street,WATER ST,"North of O'Brien Highway
+(42.372216920200003, -71.078212993500003)",42.37221692,-71.07821299,22 Water Street TIS November of 11/17/06,,,,,,,,,,,,,,,,,680,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,O'Brien Highway,MCGRATH HIGHWAY,"West of Water Street
+(42.372162958499899, -71.078919627600001)",42.37216296,-71.07891963,"22 Water Street TIS November 17, 2006",,,,,,,,,,,,,,,,,23850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,Mass. Ave,MASS AVE,"West of Prescott St.
+(42.375402603799898, -71.113790286799897)",42.3754026,-71.11379029,"Cordon Counts, Transportation Data Corp.",,,,,,,,,,14118,,,,,,,,,,,,,,,,,,,,,,,,,,,,1151,,,,,,,,,,,,,,,,,,,,,,,,,,,,1045,,,,,,,,,,,,,,,,,,,
+18,Concord Avenue,CONCORD AVE,"East of Chauncy Street
+(42.378632313099899, -71.1242756085)",42.37863231,-71.12427561,"Cordon Counts, Transportation Data Corp.",,,,,,,,,,13905,,,,,,,,,,,,,,,,,,,,,,,,,,,,1210,,,,,,,,,,,,,,,,,,,,,,,,,,,,1013,,,,,,,,,,,,,,,,,,,
+19,Garden Street,GARDEN ST,"East of Chauncy St.
+(42.378812864899899, -71.124059896099894)",42.37881286,-71.1240599,"Cordon Counts, Accurate Counts 5/14/1999",,,,,,,,,,6060,,,,,,,,,,,,,,,,,,,,,,,,,,,,431,,,,,,,,,,,,,,,,,,,,,,,,,,,,516,,,,,,,,,,,,,,,,,,,
+20,Harvard Street,HARVARD ST,"West of Prescott St.
+(42.3721339628, -71.114517466300001)",42.37213396,-71.11451747,"Cordon Counts, Accurate Counts 5/10/99",,,,,,,,,,4201,,,,,,,,,,,,,,,,,,,,,,,,,,,,347,,,,,,,,,,,,,,,,,,,,,,,,,,,,283,,,,,,,,,,,,,,,,,,,
+21,Kirkland Street,KIRKLAND ST,"West of Sumner Road
+(42.376958700099898, -71.1125587473)",42.3769587,-71.11255875,"Cordon Counts, Transportation Data Corp.",,,,,,,,,,11254,,,,,,,,,,,,,,,,,,,,,,,,,,,,773,,,,,,,,,,,,,,,,,,,,,,,,,,,,833,,,,,,,,,,,,,,,,,,,
+22,Mason Street,MASON ST,"East of Brattle St.
+(42.3760679588, -71.124260774099895)",42.37606796,-71.12426077,"Cordon Counts, Transportation Data Corp.",,,,,,,,,,13904,,,,,,,,,,,,,,,,,,,,,,,,,,,,1133,,,,,,,,,,,,,,,,,,,,,,,,,,,,1164,,,,,,,,,,,,,,,,,,,
+23,Massachusetts Avenue,MASS AVE,"East of Bow St.
+(42.372194, -71.115606999400001)",42.372194,-71.115607,"Cordon Counts, Transportation Data Corp.",,,,,,,,,,11440,,,,,,,,,,,,,,,,,,,,,,,,,,,,622,,,,,,,,,,,,,,,,,,,,,,,,,,,,858,,,,,,,,,,,,,,,,,,,
+24,Mount Auburn Street,MOUNT AUBURN ST,"East of Dewolfe St.
+(42.3710271226999, -71.115939789799896)",42.37102712,-71.11593979,"Cordon Counts, Transportation Data Corp.",,,,,,,,,,11728,,,,,,,,,,,,,,,,,,,,,,,,,,,,919,,,,,,,,,,,,,,,,,,,,,,,,,,,,778,,,,,,,,,,,,,,,,,,,
+25,Massachusetts Avenue,MASS AVE,"South of Chauncy St.
+(42.379749856099899, -71.119943104599898)",42.37974986,-71.1199431,"Cordon Counts, Transportation Data Corp; 2013 TP&T Citywide Counts;",,,,,,,,,,28898,,,,,,,,,,,,,,16079,,,,,,,,,,,,,,1848,,,,,,,,,,,,,,1173,,,,,,,,,,,,,,2025,,,,,,,,,,,,,,1135,,,,,
+26,Mount Auburn Street,MOUNT AUBURN ST,"East of Hawthorne St.
+(42.3744140083, -71.126148406300004)",42.37441401,-71.12614841,"Cordon Counts, Accurate Counts 5/14/99",,,,,,,,,,8773,,,,,,,,,,,,,,,,,,,,,,,,,,,,671,,,,,,,,,,,,,,,,,,,,,,,,,,,,658,,,,,,,,,,,,,,,,,,,
+29,Massachusetts Avenue,MASS AVE,"North of Davenport
+(42.388915748700001, -71.120582931100003)",42.38891575,-71.12058293,Cordon Counts,,,,,,,,,,53931,,,,,,,,,,,,,,,,,,,,,,,,,,,,3397,,,,,,,,,,,,,,,,,,,,,,,,,,,,3502,,,,,,,,,,,,,,,,,,,
+30,Alewife Brook Parkway,ALEWIFE BROOK PARKWAY,"West Whittemore Ave.
+(42.398783647000002, -71.141081925600005)",42.39878365,-71.14108193,Cordon Counts,,,,,,,,,34573,,,,,,,,,,,,,,,,,,,,,,,,,,,,2498,,,,,,,,,,,,,,,,,,,,,,,,,,,,2257,,,,,,,,,,,,,,,,,,,,
+31,Ames Street,AMES ST,"North of Memorial Drive
+(42.359621993200001, -71.0874156191)",42.35962199,-71.08741562,Cordon Counts,1800,2037,3290,,,,,,2205,,,,,,,,,,,,,,,,,,,,,,,,,,,,106,,,,,,,,,,,,,,,,,,,,,,,,,,,,221,,,,,,,,,,,,,,,,,,,,
+32,Beech Street,BEECH ST,"East of Massachusetts Ave.
+(42.389816870399898, -71.121248993600005)",42.38981687,-71.12124899,Cordon Counts,11945,8681,9991,,,,,,11358,,,,,,,,,,,,,,,,,,,,,,,,,,,,855,,,,,,,,,,,,,,,,,,,,,,,,,,,,824,,,,,,,,,,,,,,,,,,,,
+33,Binney Street,BINNEY ST,"West of Land Boulevard
+(42.365146000400003, -71.077499000399897)",42.365146,-71.077499,Cordon Counts,,,,,,,,,11619,,,,,,,,,,,,,,,,,,,,,,,,,,,,1210,,,,,,,,,,,,,,,,,,,,,,,,,,,,903,,,,,,,,,,,,,,,,,,,,
+34,Brattle Street,BRATTLE ST,"West of Lexington Avenue
+(42.376305472699897, -71.139952697300004)",42.37630547,-71.1399527,Cordon Counts,9388,10484,7922,,,,,,11264,,,,,,,,,,,,,,,,,,,,,,,,,,,,978,,,,,,,,,,,,,,,,,,,,,,,,,,,,970,,,,,,,,,,,,,,,,,,,,
+64,Ames Street,AMES ST,"Between Broadway and Main Street
+(42.363097999799898, -71.088101999399896)",42.363098,-71.088102,"Proposed Residences at Cambridge Center,May 2005, TIS.",,,,,,,,,,,,,,,,6000,,,,,,,,,,,,,,,,,,,,,,,,,,,,468,,,,,,,,,,,,,,,,,,,,,,,,,,,,534,,,,,,,,,,,,,
+35,Brookline Street,BROOKLINE ST,"South of Granite St.
+(42.355013722400003, -71.110336376500001)",42.35501372,-71.11033638,"72, 81, 87, 98 Cordon Counts. CDD Cambridgeport Traffic Counts, Vollmer, Oct. 31, 2006 memo for 2002, 2003 and 2006. TPT Cambridgeport ADT's May 2011.  TPT Cambridgeport ADT's May 2011.",14318,18964,16134,,,,,,13184,,,,18830,18869,,,16298,,,,,11186,,,,,,,,,,,,,,,1054,,,,,,,,,,,,,,,,,,,,,,,,,,,,1160,,,,,,,,,,,,,,,,,,,,
+36,Cambridge Street,CAMBRIDGE ST,"East of First Street
+(42.370613520200003, -71.076746822100006)",42.37061352,-71.07674682,Cordon Counts,10387,11033,9619,,,,,,15982,,,,,,,,,,,,,,,,,,,,,,,,,,,,1016,,,,,,,,,,,,,,,,,,,,,,,,,,,,1327,,,,,,,,,,,,,,,,,,,,
+37,Cameron Avenue,Cameron Ave,"East of Fairoaks
+(42.398071419200001, -71.129508056199896)",42.39807142,-71.12950806,Cordon Counts,3290,7353,5823,,,,,,5936,,,,,,,,,,,,,,,,,,,,,,,,,,,,578,,,,,,,,,,,,,,,,,,,,,,,,,,,,513,,,,,,,,,,,,,,,,,,,,
+38,Charlestown Avenue,Charlestown Avenue,"(Gilmore Bridge) North of O'Brien Highway
+(42.3695353393, -71.072825151999893)",42.36953534,-71.07282515,Cordon Counts,,,,,,,,,40175,,,,,,,,,,,,,,,,,,,,,,,,,,,,2495,,,,,,,,,,,,,,,,,,,,,,,,,,,,3062,,,,,,,,,,,,,,,,,,,,
+39,Concord Avenue,CONCORD AVE,"East of Fresh Pond Parkway (West of Birch St.)
+(42.386524999999899, -71.140135999799895)",42.386525,-71.140136,"Cordon Counts. Concord Avenue Residential Redevelopment, TIS, March 13, 2006. 75 New Street TIS, August, 2013.(counts done May 2012.). TPT citywide ATR counts May 2013. (2013 counts used wed & Thur Average)",14397,18508,,,,,,,17631,,,,,,,,14097,,,,,,14256,12911,,,,,,,,,,,,,1488,,,,,,,,1125,,,,,,1032,1104,,,,,,,,,,,,,1366,,,,,,,,1089,,,,,,953,729,,,,,
+40,Day Street,Day Street,"East of Massachusetts Ave
+(42.393569955399897, -71.1264374484999)",42.39356996,-71.12643745,Cordon Counts,3100,1829,2077,,,,,,2406,,,,,,,,,,,,,,,,,,,,,,,,,,,,167,,,,,,,,,,,,,,,,,,,,,,,,,,,,184,,,,,,,,,,,,,,,,,,,,
+41,Dewolfe Street,DEWOLFE ST,"East of Memorial Drive
+(42.369242239400002, -71.117250390199899)",42.36924224,-71.11725039,Cordon Counts,5375,6750,6606,,,,,,4561,,,,,,,,,,,,,,,,,,,,,,,,,,,,87,,,,,,,,,,,,,,,,,,,,,,,,,,,,75,,,,,,,,,,,,,,,,,,,,
+42,Dover Street,DOVER ST,"East of Massachusetts Avenue
+(42.394681085800002, -71.126808975900005)",42.39468109,-71.12680898,Cordon Counts,3550,2526,3268,,,,,,3212,,,,,,,,,,,,,,,,,,,,,,,,,,,,390,,,,,,,,,,,,,,,,,,,,,,,,,,,,230,,,,,,,,,,,,,,,,,,,,
+43,First Street,FIRST ST,"North of Land Boulevard
+(42.363719646699899, -71.078593025900005)",42.36371965,-71.07859303,Cordon Counts,,,,,,,,,5615,,,,,,,,,,,,,,,,,,,,,,,,,,,,384,,,,,,,,,,,,,,,,,,,,,,,,,,,,170,,,,,,,,,,,,,,,,,,,,
+44,Fresh Pond Parkway,FRESH POND PKWY,"South of Concord Avenue
+(42.386145593199899, -71.141111592399895)",42.38614559,-71.14111159,Cordon Counts,,,,,,,,,41450,,,,,,,,,,,,,,,,,,,,,,,,,,,,2823,,,,,,,,,,,,,,,,,,,,,,,,,,,,2725,,,,,,,,,,,,,,,,,,,,
+45,Gore Street,GORE ST,"City Line
+(42.373205000299897, -71.086891999900004)",42.373205,-71.086892,Cordon Counts,,,16666,,,,,,14884,,,,,,,,,,,,,,,,,,,,,,,,,,,,1126,,,,,,,,,,,,,,,,,,,,,,,,,,,,1076,,,,,,,,,,,,,,,,,,,,
+46,Hampshire Street,HAMPSHIRE ST,"North of Cambridge Street
+(42.373874705399899, -71.100993178099898)",42.37387471,-71.10099318,Cordon Counts,,,15420,,,,,,14259,,,,,,,,,,,,,,,,,,,,,,,,,,,,754,,,,,,,,,,,,,,,,,,,,,,,,,,,,1077,,,,,,,,,,,,,,,,,,,,
+49,Cambridge Street,CAMBRIDGE ST,"West of First Street
+(42.3706573495, -71.077045044000002)",42.37065735,-71.07704504,"One First Street  TIS, Oct. 2003.",,,,,,,,,,,,,,9800,,,,,,,,,,,,,,,,,,,,,,,,,,,,675,,,,,,,,,,,,,,,,,,,,,,,,,,,,690,,,,,,,,,,,,,,,
+50,Broadway,BROADWAY ST,"East of Moore St
+(42.366298624599899, -71.0933920218)",42.36629862,-71.09339202,210 Broadway TIS July 1999,,,,,,,,,12690,,,,,,,,,,,,,,,,,,,,,,,,,,,,945,,,,,,,,,,,,,,,,,,,,,,,,,,,,885,,,,,,,,,,,,,,,,,,,,
+52,Broadway,BROADWAY ST,"East of Midblock Connector
+(42.3634673046, -71.086171262099896)",42.3634673,-71.08617126,BioGen R&D TIS March 1999,,,,,,,,,21350,,,,,,,,,,,,,,,,,,,,,,,,,,,,1389,,,,,,,,,,,,,,,,,,,,,,,,,,,,1404,,,,,,,,,,,,,,,,,,,,
+53,Broadway,BROADWAY ST,"West of MidBlock Connector
+(42.3641566051, -71.087833529999898)",42.36415661,-71.08783353,BioGen R&D TIS March 1999,,,,,,,,,15370,,,,,,,,,,,,,,,,,,,,,,,,,,,,1294,,,,,,,,,,,,,,,,,,,,,,,,,,,,1202,,,,,,,,,,,,,,,,,,,,
+55,Binney St,Binney St,"East of Cardinal Medeiros Ave
+(42.367567721699899, -71.090406014600006)",42.36756772,-71.09040601,"Amgen Center, One Kendall Square TIS March 1999.399 Binney Street TIS, 2015, counts in Oct. 2015.",,,,,,,,,,4710,,,,,,,,,,,,,,,,4750,,,,,,,,,,,,520,,,,,,,,,,,,,,,,511,,,,,,,,,,,,460,,,,,,,,,,,,,,,,446,,,
+56,Cardinal Medeiros Ave,Cardinal Medeiros Ave,"North of Binney St
+(42.367883313599897, -71.090893441700004)",42.36788331,-71.09089344,"Amgen Center, One Kendall Square TIS March 1999",,,,,,,,,,8100,,,,,,,,,,,,,,,,,,,,,,,,,,,,620,,,,,,,,,,,,,,,,,,,,,,,,,,,,660,,,,,,,,,,,,,,,,,,,
+58,Broadway,BROADWAY ST,"West of Trowbridge St. 2013 TP&amp;T Citywide Counts;
+(42.373248695000001, -71.110976437399898)",42.3732487,-71.11097644,"Cambridge Main Public Library Expansion TIS, 12/2003.2013 TP&T Citywide Counts(Used Wed &Thu Average)",,,,,,,,,,,,,14750,,,,,,,,,,,9037,,,,,,,,,,,,,,,,,,,,,,,,,,,,684,,,,,,,,,,,,,,,,,1150,,,,,,,,,,,810,,,,,
+60,Acorn Park Drive,ACCESS RD,"South of Frontage Road
+(42.3987762987, -71.153647097299896)",42.3987763,-71.1536471,"Residences at Rt. 2. TIS, Jan. 2009 and Dec. 2010. Residences at Alewife Station (VoxII) TIS, Nov. 2016 (counts Sept. 2016).",,,,,,,,,,,,,,,,,,,1350,,1746,,,,,,2984,,,,,,,,,,,,,,,,,,,,300,,552,,,,,,580,,,,,,,,,,,,,,,,,,,,140,,61,,,,,,201,,
+61,Frontage Road,Frontage Road,"West of Acorn Park Drive
+(42.400762427300002, -71.154363545099898)",42.40076243,-71.15436355,"Residences at Route 2, Jan. 2009, TIS for 2008 counts and Dec. 2010 TIS for 2010 counts. Residences at Alewife Station (VoxII) TIS, Nov. 2016 (counts Sept. 2016).",,,,,,,,,,,,,,,,,,,7440,,8498,,,,,,8262,,,,,,,,,,,,,,,,,,,,1320,,1600,,,,,,1465,,,,,,,,,,,,,,,,,,,,740,,720,,,,,,1005,,
+62,Fulkerson Street,FULKERSON ST,"North of Bent Street
+(42.3679933933999, -71.087813072700001)",42.36799339,-71.08781307,"301 Binney St. and 320 Bent Street TIS, April 2002.",,,,,,,,,,,,,4674,,,,,,,,,,,,,,,,,,,,,,,,,,,,420,,,,,,,,,,,,,,,,,,,,,,,,,,,,401,,,,,,,,,,,,,,,,
+63,Binney Street,BINNEY ST,"East of Fulkerson Street
+(42.366296077800001, -71.087331805199895)",42.36629608,-71.08733181,"301 Binney St., 320 Bent Street TIS, April 2002.",,,,,,,,,,,,,13323,,,,,,,,,,,,,,,,,,,,,,,,,,,,1099,,,,,,,,,,,,,,,,,,,,,,,,,,,,1046,,,,,,,,,,,,,,,,
+65,Galileo Galilei Way,Galileo Galilei Way,"Between Broadway and Main Street
+(42.3635764174999, -71.089793399200005)",42.36357642,-71.0897934,"Proposed Residences at Cambridge Center,May 2005, TIS.",,,,,,,,,,,,,,,,13400,,,,,,,,,,,,,,,,,,,,,,,,,,,,1103,,,,,,,,,,,,,,,,,,,,,,,,,,,,1079,,,,,,,,,,,,,
+66,Main Street,MAIN ST,"West of Ames Street and Midblock Connector
+(42.362638999700003, -71.088906999599899)",42.362639,-71.088907,"Traffic Impact Assessment/IPOP Analysis, Dec. 1999.",,,,,,,,,,8773,,,,,,,,,,,,,,,,,,,,,,,,,,,,685,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,,,,,,,,,,,,,,,,,,,
+67,Galileo Galilei Way,Galileo Galilei Way,"North of Main Street
+(42.362818616200002, -71.089984713299899)",42.36281862,-71.08998471,"Traffic Impact Assessment/IPOP Analysis, Dec. 1999.",,,,,,,,,,12339,,,,,,,,,,,,,,,,,,,,,,,,,,,,1014,,,,,,,,,,,,,,,,,,,,,,,,,,,,1155,,,,,,,,,,,,,,,,,,,
+68,Midblock Connector,Midblock Connector,"Between Main St. and Broadway
+(42.363219750500001, -71.088004189200007)",42.36321975,-71.08800419,"Traffic Impact Assessment/IPOP Analysis, Dec. 1999.",,,,,,,,,,6566,,,,,,,,,,,,,,,,,,,,,,,,,,,,505,,,,,,,,,,,,,,,,,,,,,,,,,,,,534,,,,,,,,,,,,,,,,,,,
+70,Bay State Road,BAY STATE ROAD,"East of Birch Street
+(42.3874438876, -71.138689822299895)",42.38744389,-71.13868982,"Concord Avenue Residential Redevelopman, TIS, March 13, 2006.",,,,,,,,,,,,,,,,,4796,,,,,,,,,,,,,,,,,,,,,,,,,,,,447,,,,,,,,,,,,,,,,,,,,,,,,,,,,448,,,,,,,,,,,,
+71,Alewife Brook Parkway,ALEWIFE BROOK PARKWAY,"North of Cambridgepark Drive
+(42.395304699599897, -71.140656330499894)",42.3953047,-71.14065633,"30 CPD, TIS 1999. Cambridge Discovery Park TIS, September, 2004. 150/180 Cambridgepark Drive R&D Project, TIS, 8/4/2008. Residences@160 CPD TIS, 2/2012.  (counts in Dec. 2011). 180R CPD TIS, 1/2014(counts 12/12). 35 CPD traffic study (counts June 2016).",,,,,,,,,,56550,,,,,50300,,,,47015,,,,43311,44938,,,48077,,,,,,,,,,,3350,,,,,3089,,,,3400,,,,2921,2584,,,3203,,,,,,,,,,,3798,,,,,3635,,,,3299,,,,2990,3143,,,3237,,
+72,Alewife Brook Parkway,ALEWIFE BROOK PARKWAY,"North of Route 2
+(42.398671808800003, -71.141144088900006)",42.39867181,-71.14114409,"150/180 Cambridgepark Drive R&D Project, TIS, August 4, 2008.",,,,,,,,,,,,,,,,,,,36337,,,,,,,,,,,,,,,,,,,,,,,,,,,,2363,,,,,,,,,,,,,,,,,,,,,,,,,,,,2509,,,,,,,,,,
+74,Cambridgepark Drive,CAMBRIDGE PARK DRIVE,"West of Alewife Access Road
+(42.394638260000001, -71.142697557899893)",42.39463826,-71.14269756,"150/180 Cambridgepark Drive R&D Project, TIS, August 4, 2008.  The Residences at 160 Cambridgepark Dr, TIS, Feb, 2012 (counts in Dec. 2011).165 Cambridgepark Drive TIS, June 2012 (count in May 2012).",,,,,,,,,,,,,,,,,,,4475,,,3634,4034,,,,,,,,,,,,,,,,,,,,,,,,564,,,292,438,,,,,,,,,,,,,,,,,,,,,,,,497,,,322,364,,,,,,
+75,Alewife Station Access Road,Alewife Station Access Road,"South of Route 2
+(42.398981206999899, -71.146736191000002)",42.39898121,-71.14673619,"150/180 Cambridgepark Drive R&D Project, TIS, August 4, 2008; 165 Cambridgepark Drive TIS, June 2012 (counts in May 2012).",,,,,,,,,,,,,,,,,,,8944,,,,10244,,,,,,,,,,,,,,,,,,,,,,,,1362,,,,1458,,,,,,,,,,,,,,,,,,,,,,,,756,,,,990,,,,,,
+76,Alewife Station Access Road,Alewife Station Access Road,"East of Alewife Brook Parkway
+(42.3969517938, -71.140862091700001)",42.39695179,-71.14086209,"150/180 Cambridgepark Drive R&D Project, TIS, August 4, 2008.",,,,,,,,,,,,,,,,,,,5454,,,,,,,,,,,,,,,,,,,,,,,,,,,,259,,,,,,,,,,,,,,,,,,,,,,,,,,,,630,,,,,,,,,,
+77,Route 2,Route 2,"West of Alewife Brook Parkway
+(42.397984700899897, -71.143098940000002)",42.3979847,-71.14309894,"150/180 Cambridgepark Drive R&D Project, TIS, August 4, 2008.",,,,,,,,,,,,,,,,,,,58315,,,,,,,,,,,,,,,,,,,,,,,,,,,,4018,,,,,,,,,,,,,,,,,,,,,,,,,,,,4486,,,,,,,,,,
+79,Broadway,BROADWAY ST,"West of Hampshire Street
+(42.365333841800002, -71.090908444299899)",42.36533384,-71.09090844,"Draper Laboratory, TIS, Aug. 2, 2002.",,,,,,,,,,,,,20500,,,,,,,,,,,,,,,,,,,,,,,,,,,,1558,,,,,,,,,,,,,,,,,,,,,,,,,,,,1620,,,,,,,,,,,,,,,,
+80,Portland Street,PORTLAND ST,"South of Tech Square Driveway No. 3
+(42.364008681800001, -71.093092933600005)",42.36400868,-71.09309293,"Draper Laboratory, TIS, Aug. 2, 2002.",,,,,,,,,,,,,8300,,,,,,,,,,,,,,,,,,,,,,,,,,,,687,,,,,,,,,,,,,,,,,,,,,,,,,,,,690,,,,,,,,,,,,,,,,
+81,Main Street,MAIN ST,"East of Tech Square Driveway No. 3.
+(42.362771000199899, -71.091022999499899)",42.362771,-71.091023,"Draper Laboratory, TIS, Aug. 2, 2002.",,,,,,,,,,,,,11500,,,,,,,,,,,,,,,,,,,,,,,,,,,,926,,,,,,,,,,,,,,,,,,,,,,,,,,,,866,,,,,,,,,,,,,,,,
+83,Concord Avenue,CONCORD AVE,"West of Smith Place
+(42.390154258400003, -71.151046790300001)",42.39015426,-71.15104679,"70 Fawcett Street Residential Redevelopment, TIS, June 15, 2007. (ATRs in Dec. 2006).",,,,,,,,,,,,,,,,,18877,,,,,,,,,,,,,,,,,,,,,,,,,,,,1493,,,,,,,,,,,,,,,,,,,,,,,,,,,,1532,,,,,,,,,,,,
+84,Concord Avenue,CONCORD AVE,"East of Fawcett Street
+(42.389117812999899, -71.145767380199899)",42.38911781,-71.14576738,"Fawcett St. Res.Dev.TIS, 5/02; 70 Fawcett St. TIS, 6/ 15/07 (Dec. 2006); Concord/Wheeler 2012 TIS, 6/19&20, 2012; Concord/Wheeler II TIS, 9/24/13; 95 Fawcett  TIS  9/2015); Concord/Wheeler II 1/2/2015 updated TIS; 55 Wheeler TIS, 10/5/16.",,,,,,,,,,,20000,,,,,,21525,,,,,,22338,21868,,19879,21802,,,,,,,,,,,,1607,,,,,,1620,,,,,,1698,1757,,1522,1766,,,,,,,,,,,,1557,,,,,,1593,,,,,,1587,1561,,1262,1477,,"2015 counts: 95 Fawcett TIS (21,770 ADT on Dec. 9&10, 2015)); Concord Phase II TIS (19,879 ADT on Dec 2, 2015.)"
+85,Fawcett Street,FAWCETT ST,"North of Concord Ave.
+(42.391615307400002, -71.146129290700003)",42.39161531,-71.14612929,"70 Fawcett Street TIS, 6/1507 (ATRs in Dec. 2006); 95 Fawcett TIS (2015 TIS, counts  9/15; 55 Wheeler Street TIS, 10/16 counts.",,,,,,,,,,,,,,,,,1838,,,,,,,,,2731,3855,,,,,,,,,,,,,,,,,,172,,,,,,,,,248,3115,,,,,,,,,,,,,,,,,,177,,,,,,,,,230,245,,
+86,First Street,FIRST ST,"South of Cambridge Street
+(42.370415312600002, -71.0769723059)",42.37041531,-71.07697231,"North Point TIS, Oct. 29, 2002; One First Street  TIS, Oct. 2003; Courthouse Redevelopment TIS, Oct. 2013. (counts, May 2013)",,,,,,,,,,,,,6800,8300,,,,,,,,,,7883,,,,,,,,,,,,,,,,,410,479,,,,,,,,,,545,,,,,,,,,,,,,,,,,500,837,,,,,,,,,,746,,,,,
+87,Second Street,SECOND ST,"North of Otis Street
+(42.3702325812, -71.078738830099894)",42.37023258,-71.07873883,"One First Street  TIS, Oct. 2003.",,,,,,,,,,,,,,3400,,,,,,,,,,,,,,,,,,,,,,,,,,,,389,,,,,,,,,,,,,,,,,,,,,,,,,,,,267,,,,,,,,,,,,,,,
+88,Charles Street,CHARLES ST,"West of First Street
+(42.367275621700003, -71.077875029699896)",42.36727562,-71.07787503,"First/Bent Street Development TIS, Oct. 2007.",,,,,,,,,,,,,,,,,,2080,,,,,,,,,,,,,,,,,,,,,,,,,,,,110,,,,,,,,,,,,,,,,,,,,,,,,,,,,240,,,,,,,,,,,
+89,Bent Street,Bent St,"West of First Street
+(42.366582133999898, -71.078038919999898)",42.36658213,-71.07803892,"First/Bent Street Development TIS, Oct. 2007.",,,,,,,,,,,,,,,,,,940,,,,,,,,,,,,,,,,,,,,,,,,,,,,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,80,,,,,,,,,,,
+90,Rogers Street,ROGERS ST,"West of First Street
+(42.365934359800001, -71.078223198900005)",42.36593436,-71.0782232,"First/Bent Street Development TIS, Oct. 2007.",,,,,,,,,,,,,,,,,,830,,,,,,,,,,,,,,,,,,,,,,,,,,,,60,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,,,,,,,,,,,
+91,Hurley Street,HURLEY ST,"West of First Street
+(42.367926203700002, -71.077632593900006)",42.3679262,-71.07763259,"First/Bent Street Development TIS, Oct. 2007.",,,,,,,,,,,,,,,,,,2000,,,,,,,,,,,,,,,,,,,,,,,,,,,,150,,,,,,,,,,,,,,,,,,,,,,,,,,,,180,,,,,,,,,,,
+92,First Street,FIRST ST,"South of Bent Street
+(42.3664426136, -71.077936088200005)",42.36644261,-71.07793609,"First/Bent Street Development TIS, Oct. 2007.",,,,,,,,,,,,,,,,,,6800,,,,,,,,,,,,,,,,,,,,,,,,,,,,470,,,,,,,,,,,,,,,,,,,,,,,,,,,,600,,,,,,,,,,,
+93,Second Street,SECOND ST,"South of Charles Street
+(42.367411203800003, -71.079417304000003)",42.3674112,-71.0794173,"First/Bent Street Development TIS, Oct. 2007.",,,,,,,,,,,,,,,,,,2640,,,,,,,,,,,,,,,,,,,,,,,,,,,,210,,,,,,,,,,,,,,,,,,,,,,,,,,,,340,,,,,,,,,,,
+94,Third Street,THIRD ST,"North of Charles Street
+(42.367893495399898, -71.080892960499895)",42.3678935,-71.08089296,"First/Bent Street Development TIS, Oct. 2007.",,,,,,,,,,,,,,,,,,8600,,,,,,,,,,,,,,,,,,,,,,,,,,,,600,,,,,,,,,,,,,,,,,,,,,,,,,,,,690,,,,,,,,,,,
+95,Linskey Way,LINKSKI WAY,"East of Second Street
+(42.364748455700003, -71.079842353299895)",42.36474846,-71.07984235,"195 First Street & 77 Linskey Way Residential Project TIS, Nov. 12, 2002.",,,,,,,,,,,,,954,,,,,,,,,,,,,,,,,,,,,,,,,,,,64,,,,,,,,,,,,,,,,,,,,,,,,,,,,129,,,,,,,,,,,,,,,,
+96,First Street,FIRST ST,"North of Athanaeum Street
+(42.364058759700001, -71.078512258800004)",42.36405876,-71.07851226,"195 First Street & 77 Linskey Way Residential Project TIS, Nov. 12, 2002.",,,,,,,,,,,,,3639,,,,,,,,,,,,,,,,,,,,,,,,,,,,326,,,,,,,,,,,,,,,,,,,,,,,,,,,,533,,,,,,,,,,,,,,,,
+97,Binney Street,BINNEY ST,"East of First Street
+(42.365207194, -71.078156286500004)",42.36520719,-71.07815629,"195 First Street & 77 Linskey Way Residential Project TIS, Nov. 12, 2002.",,,,,,,,,,,,,9445,,,,,,,,,,,,,,,,,,,,,,,,,,,,966,,,,,,,,,,,,,,,,,,,,,,,,,,,,760,,,,,,,,,,,,,,,,
+98,Memorial Drive,MEMORIAL DR,"North of Hingham Street
+(42.364719973699899, -71.116027096300002)",42.36471997,-71.1160271,"Harvard's Grant/Cowperthwaite Project Transportation Study, Dec. 2004. ADT is May 2004.",,,,,,,,,,,,,,,26245,,,,,,,,,,,,,,,,,,,,,,,,,,,,1787,,,,,,,,,,,,,,,,,,,,,,,,,,,,1825,,,,,,,,,,,,,,
+99,Hingham Street,HINGHAM ST,"West of Banks Street
+(42.365193999600002, -71.115480000199895)",42.365194,-71.11548,"Harvard's Grant/Cowperthwaite Project Transportation Study, Dec. 2004. ADT is May 2004.",,,,,,,,,,,,,,,1284,,,,,,,,,,,,,,,,,,,,,,,,,,,,102,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,,,,,,,,,,
+100,DeWolfe Street,DEWOLFE ST,"South of Grant Street
+(42.369658383000001, -71.1169374613999)",42.36965838,-71.11693746,"Harvard's Grant/Cowperthwaite Project Transportation Study, Dec. 2004. ADT is May 2004.",,,,,,,,,,,,,,,4806,,,,,,,,,,,,,,,,,,,,,,,,,,,,313,,,,,,,,,,,,,,,,,,,,,,,,,,,,294,,,,,,,,,,,,,,
+101,Putnam Avenue,PUTNAM AVE,"South of Green Street
+(42.369072903099898, -71.113477526200001)",42.3690729,-71.11347753,"Harvard's Grant/Cowperthwaite Project Transportation Study, Dec. 2004. ADT is May 2004.",,,,,,,,,,,,,,,6328,,,,,,,,,,,,,,,,,,,,,,,,,,,,438,,,,,,,,,,,,,,,,,,,,,,,,,,,,473,,,,,,,,,,,,,,
+102,Western Avenue,WESTERN AVE,"West of Blackstone Street
+(42.364380520799898, -71.115158103100001)",42.36438052,-71.1151581,"Harvard's Grant/Cowperthwaite Project Transportation Study, Dec. 2004. ADT is May 2004. 2013 TP&T Citywide Counts, but Memorial Drive was under construction so no data entered;",,,,,,,,,,,,,,,19416,,,,,,,,,,,,,,,,,,,,,,,,,,,,1176,,,,,,,,,,,,,,,,,,,,,,,,,,,,1331,,,,,,,,,,,,,,
+103,Massachusetts Avenue,MASS AVE,"East of Sidney Street
+(42.362867000400001, -71.099394999799898)",42.362867,-71.099395,"Central Square Improvements Master Plan, CDD, 1995(counts in fall 1994). MIT Pacific Street Dormitory, TIS, May 2000. ADT counts Feb. 1999.  TPT Cambridgeport ADT's May 2011 - Mass. Avenue just east of State Street. April 2013 counts  (300 Mass. Ave TIS).",,,,,18780,,,,,19440,,,,,,,,,,,,15219,,13566,,,,,,,,,1000,,,,,1090,,,,,,,,,,,,,,798,,,,,,,,,1310,,,,,1350,,,,,,,,,,,,,,952,,,,,
+104,Sidney Street,SIDNEY ST,"North of Pacific Street
+(42.360534064600003, -71.1022556984)",42.36053406,-71.1022557,"MIT Pacific Street Dormitory, TIS, May 2000. ADT counts are Feb. 1999.",,,,,,,,,,5250,,,,,,,,,,,,,,,,,,,,,,,,,,,,490,,,,,,,,,,,,,,,,,,,,,,,,,,,,490,,,,,,,,,,,,,,,,,,,
+105,Pacific Street,PACIFIC ST,"West of Landsdowne Street
+(42.360103975599898, -71.102043935799898)",42.36010398,-71.10204394,"MIT Pacific Street Dormitory, TIS, May 2000. ADT counts are Feb. 1999.",,,,,,,,,,2030,,,,,,,,,,,,,,,,,,,,,,,,,,,,185,,,,,,,,,,,,,,,,,,,,,,,,,,,,205,,,,,,,,,,,,,,,,,,,
+106,Landsdowne Street,Landsdowne St,"North of Pilgrim Street
+(42.360350329500001, -71.100721422899895)",42.36035033,-71.10072142,"MIT Pacific Street Dormitory, TIS, May 2000. ADT counts are Feb. 1999. 300 Mass. Avenue TIS, May 2013 (counts done in April 2013).",,,,,,,,,,1730,,,,,,,,,,,,,,2868,,,,,,,,,,,,,,135,,,,,,,,,,,,,,264,,,,,,,,,,,,,,180,,,,,,,,,,,,,,292,,,,,
+107,Ames Street,AMES ST,"South of Amherst Street
+(42.359714473899899, -71.087479517999896)",42.35971447,-71.08747952,"MIT Media Lab, TIS, August 2000.",,,,,,,,,,,2150,,,,,,,,,,,,,,,,,,,,,,,,,,,,135,,,,,,,,,,,,,,,,,,,,,,,,,,,,215,,,,,,,,,,,,,,,,,,
+108,Amherst Street,AMHERST ST,"East of Ames Street
+(42.360170698700003, -71.087091277499894)",42.3601707,-71.08709128,"MIT Media Lab, TIS, August 2000.",,,,,,,,,,,4400,,,,,,,,,,,,,,,,,,,,,,,,,,,,435,,,,,,,,,,,,,,,,,,,,,,,,,,,,360,,,,,,,,,,,,,,,,,,
+109,Vassar Street,VASSAR ST,"Southwest of Massachusetts Avenue
+(42.359736999699898, -71.095721999800006)",42.359737,-71.095722,"MIT Media Lab, TIS, August 2000.",,,,,,,,,,,7950,,,,,,,,,,,,,,,,,,,,,,,,,,,,780,,,,,,,,,,,,,,,,,,,,,,,,,,,,600,,,,,,,,,,,,,,,,,,
+110,Massachusetts Avenue,MASS AVE,"Northwest of Memorial Drive
+(42.357796617699897, -71.092928087399898)",42.35779662,-71.09292809,"MIT Media Lab, TIS, August 2000.",,,,,,,,,,,27200,,,,,,,,,,,,,,,,,,,,,,,,,,,,1905,,,,,,,,,,,,,,,,,,,,,,,,,,,,1900,,,,,,,,,,,,,,,,,,
+112,Ames Street,AMES ST,"South of Main Street
+(42.3619101906, -71.088292751200001)",42.36191019,-71.08829275,"MIT Media Lab, TIS, August 2000. (ADT was 1999 for Ames St.)",,,,,,,,,,4670,,,,,,,,,,,,,,,,,,,,,,,,,,,,400,,,,,,,,,,,,,,,,,,,,,,,,,,,,450,,,,,,,,,,,,,,,,,,,
+114,Mt. Auburn Street,MOUNT AUBURN ST,"East of Hawthorne Street
+(42.3744201242, -71.126228408800003)",42.37442012,-71.12622841,"Mount Auburn Hospital Expansion TIS, May 31, 2005. ATR counts are from Nov. 17, 2004.",,,,,,,,,,,,,,,10810,,,,,,,,,,,,,,,,,,,,,,,,,,,,875,,,,,,,,,,,,,,,,,,,,,,,,,,,,825,,,,,,,,,,,,,,
+115,Binney Street,BINNEY ST,"West of One Kendall garage entrance driveway
+(42.3675452644, -71.090343276499894)",42.36754526,-71.09034328,"Proposed Residential Development, TIS, One Kendall, June 2004.",,,,,,,,,,,,,,,3500,,,,,,,,,,,,,,,,,,,,,,,,,,,,399,,,,,,,,,,,,,,,,,,,,,,,,,,,,389,,,,,,,,,,,,,,
+116,Binney Street,BINNEY ST,"East of One Kendall garage exit driveway
+(42.3669085039, -71.088902594199894)",42.3669085,-71.08890259,"Proposed Residential Development, TIS, One Kendall, June 2004.",,,,,,,,,,,,,,,3250,,,,,,,,,,,,,,,,,,,,,,,,,,,,377,,,,,,,,,,,,,,,,,,,,,,,,,,,,442,,,,,,,,,,,,,,
+118,Memorial Drive,MEMORIAL DR,"South of Pleasant Street
+(42.358385188699899, -71.115498316200004)",42.35838519,-71.11549832,"784 Memorial Drive TIS, Dec. 14, 1999",,,,,,,,,,38255,,,,,,,,,,,,,,,,,,,,,,,,,,,,3085,,,,,,,,,,,,,,,,,,,,,,,,,,,,3000,,,,,,,,,,,,,,,,,,,
+119,Memorial Drive,MEMORIAL DR,"North of Pleasant Street
+(42.359408860599899, -71.115665254999897)",42.35940886,-71.11566525,"784 Memorial Drive TIS, Dec. 14, 1999",,,,,,,,,,35596,,,,,,,,,,,,,,,,,,,,,,,,,,,,3075,,,,,,,,,,,,,,,,,,,,,,,,,,,,3021,,,,,,,,,,,,,,,,,,,
+120,Pleasant Street,PLEASANT ST,"North or East of Memorial Drive
+(42.358929000300002, -71.115197000199899)",42.358929,-71.115197,784 Memorial Drive (Polaroid) Aug. 1997 count. Listed in 1999 TIS.,,,,,,,,1191,,,,,,,,,,,,,,,,,,,,,,,,,,,,128,,,,,,,,,,,,,,,,,,,,,,,,,,,,63,,,,,,,,,,,,,,,,,,,,,
+122,Florence Street,FLORENCE ST,"South of Pleasant Street
+(42.358595999999899, -71.1137689997)",42.358596,-71.113769,"784 Memorial Drive TIS, Dec. 14, 1999",,,,,,,,,,1256,,,,,,,,,,,,,,,,,,,,,,,,,,,,44,,,,,,,,,,,,,,,,,,,,,,,,,,,,179,,,,,,,,,,,,,,,,,,,
+123,Pleasant Street,PLEASANT ST,"North or East of Chestnut Street
+(42.359709329399898, -71.1132527619)",42.35970933,-71.11325276,784 Memorial Drive (Polaroid) Aug. 1997 count. Listed in 1999 TIS.,,,,,,,,1716,,,,,,,,,,,,,,,,,,,,,,,,,,,,131,,,,,,,,,,,,,,,,,,,,,,,,,,,,259,,,,,,,,,,,,,,,,,,,,,
+125,Putnam Avenue,PUTNAM AVE,"South of Pleasant Street
+(42.359945732200003, -71.112465947900006)",42.35994573,-71.11246595,"784 Memorial Drive TIS, Dec. 14, 1999",,,,,,,,,,6298,,,,,,,,,,,,,,,,,,,,,,,,,,,,530,,,,,,,,,,,,,,,,,,,,,,,,,,,,748,,,,,,,,,,,,,,,,,,,
+126,Putnam Avenue,PUTNAM AVE,"North of Pleasant Street
+(42.360435000000003, -71.113133000000005)",42.360435,-71.113133,"784 Memorial Drive TIS, Dec. 14, 1999",,,,,,,,,,7447,,,,,,,,,,,,,,,,,,,,,,,,,,,,597,,,,,,,,,,,,,,,,,,,,,,,,,,,,844,,,,,,,,,,,,,,,,,,,
+127,Rindge Avenue,RINDGE AVE,"East of Alewife Brook Parkway
+(42.393944000399898, -71.139169000400003)",42.393944,-71.139169,"310-324 Rindge Avenue TIS, July 2000.",,,,,,,,,,,12000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+128,Binney Street,BINNEY ST,"East of One Kendall garage exit driveway
+(42.366877286799898, -71.088844215099897)",42.36687729,-71.08884422,"Proposed R&D Building, One Kendall,TIS Nov. 21, 2002",,,,,,,,,,,,,4700,,,,,,,,,,,,,,,,,,,,,,,,,,,,345,,,,,,,,,,,,,,,,,,,,,,,,,,,,503,,,,,,,,,,,,,,,,
+130,Fulkerson Street,FULKERSON ST,"North of Binney Street
+(42.366876295600001, -71.088121001000005)",42.3668763,-71.088121,"Proposed R&D Building, One Kendall,TIS Nov. 21, 2002. 399 Binney Street TIS, 2015, counts in Oct. 2015.",,,,,,,,,,,,,3700,,,,,,,,,,,,,5700,,,,,,,,,,,,,,,436,,,,,,,,,,,,,583,,,,,,,,,,,,,,,416,,,,,,,,,,,,,472,,,
+131,Third Street,THIRD ST,"South of Linskey Way
+(42.364670382699899, -71.083005836500007)",42.36467038,-71.08300584,"303 Third Street Residential TIS,May 2003.",,,,,,,,,,,,,,8700,,,,,,,,,,,,,,,,,,,,,,,,,,,,667,,,,,,,,,,,,,,,,,,,,,,,,,,,,762,,,,,,,,,,,,,,,
+132,Linskey Way,LINKSKI WAY,"East of Third Street
+(42.365036664999899, -71.082213825799897)",42.36503666,-71.08221383,"303 Third Street Residential TIS,May 2003.",,,,,,,,,,,,,,950,,,,,,,,,,,,,,,,,,,,,,,,,,,,61,,,,,,,,,,,,,,,,,,,,,,,,,,,,120,,,,,,,,,,,,,,,
+133,Broadway,BROADWAY ST,"West of Third Street
+(42.362894266600001, -71.084785377000003)",42.36289427,-71.08478538,"303 Third Street Residential TIS,May 2003.",,,,,,,,,,,,,,16200,,,,,,,,,,,,,,,,,,,,,,,,,,,,1124,,,,,,,,,,,,,,,,,,,,,,,,,,,,1208,,,,,,,,,,,,,,,
+134,Main Street,MAIN ST,"Between Vassar and Ames Street
+(42.362643705099899, -71.088997546800002)",42.36264371,-71.08899755,"Stata Research Center TIS, April 26, 1999.",,,,,,,,,,8684,,,,,,,,,,,,,,,,,,,,,,,,,,,,673,,,,,,,,,,,,,,,,,,,,,,,,,,,,683,,,,,,,,,,,,,,,,,,,
+135,Vassar Street,VASSAR ST,"Southwest of Main Street
+(42.362293411000003, -71.090549020799898)",42.36229341,-71.09054902,"Stata Research Center TIS, April 26, 1999.",,,,,,,,,,11765,,,,,,,,,,,,,,,,,,,,,,,,,,,,870,,,,,,,,,,,,,,,,,,,,,,,,,,,,976,,,,,,,,,,,,,,,,,,,
+136,Ames Street,AMES ST,"South of Main Street
+(42.361965730800001, -71.0882859260999)",42.36196573,-71.08828593,"Stata Research Center TIS, April 26, 1999.",,,,,,,,,,4705,,,,,,,,,,,,,,,,,,,,,,,,,,,,392,,,,,,,,,,,,,,,,,,,,,,,,,,,,436,,,,,,,,,,,,,,,,,,,
+138,Binney Street,BINNEY ST,"East of Third Street
+(42.365653350499898, -71.0814931253)",42.36565335,-71.08149313,"286 third Street (Office/R&D Building) TIS, April 1999.",,,,,,,,,,12640,,,,,,,,,,,,,,,,,,,,,,,,,,,,1122,,,,,,,,,,,,,,,,,,,,,,,,,,,,1235,,,,,,,,,,,,,,,,,,,
+139,Fulkerson Street,FULKERSON ST,"North of Rogers Street
+(42.367367177600002, -71.087983190499898)",42.36736718,-71.08798319,"Proposed Office Telecommunications Development TIS, November 1999",,,,,,,,,,5283,,,,,,,,,,,,,,,,,,,,,,,,,,,,590,,,,,,,,,,,,,,,,,,,,,,,,,,,,448,,,,,,,,,,,,,,,,,,,
+140,Gore Street,GORE ST,"West of Seventh Street
+(42.372720319800003, -71.085604379100005)",42.37272032,-71.08560438,"Proposed Star Market Expansion Twin City Plaza, TIS, May 2001.",,,,,,,,,,,,6460,,,,,,,,,,,,,,,,,,,,,,,,,,,,507,,,,,,,,,,,,,,,,,,,,,,,,,,,,386,,,,,,,,,,,,,,,,,
+141,Sixth Street,SIXTH ST,"South of Charles Street
+(42.3680938647, -71.085628174600004)",42.36809386,-71.08562817,"Proposed Office Telecommunications Development TIS, November 1999",,,,,,,,,,3045,,,,,,,,,,,,,,,,,,,,,,,,,,,,303,,,,,,,,,,,,,,,,,,,,,,,,,,,,222,,,,,,,,,,,,,,,,,,,
+143,McGrath O'Brien Highway,MCGRATH HIGHWAY,"at Twin City Plaza
+(42.373530088400003, -71.081787881699896)",42.37353009,-71.08178788,"Proposed Star Market Expansion Twin City Plaza, TIS, May 2001.",,,,,,,,,,,,34371,,,,,,,,,,,,,,,,,,,,,,,,,,,,2797,,,,,,,,,,,,,,,,,,,,,,,,,,,,2184,,,,,,,,,,,,,,,,,
+145,Cambridgepark Drive,CAMBRIDGE PARK DRIVE,"West of Alewife Brook Parkway/East of Alewife Station Access Road.
+(42.3946476254999, -71.141683173299896)",42.39464763,-71.14168317,"30 Cambridge Park Drive, TIS 1999; 160 Cambridgepark Drive TIS, August 2008;  165 Cambridgepark Drive TIS, June 2012 (counts in May 2012).",,,,,,,,,,12100,,,,,,,,,10069,,,,9743,,,,,,,,,,,,,,,910,,,,,,,,,905,,,,783,,,,,,,,,,,,,,,1228,,,,,,,,,1039,,,,1000,,,,,,
+146,Rindge Ave,Rindge Ave,"East of Alewife Brook Parkway
+(42.393955801499899, -71.139298354700003)",42.3939558,-71.13929835,"30 Cambridge Park Drive, TIS 1999; 2013 Citywide Counts(Used Wed &Thu Average)",,,,,,,,,,12050,,,,,,,,,,,,,,9768,,,,,,,,,,,,,,773,,,,,,,,,,,,,,594,,,,,,,,,,,,,,890,,,,,,,,,,,,,,716,,,,,
+155,Cambridgepark Drive,CAMBRIDGE PARK DRIVE,"100 Cambridgepark Drive Site Driveway
+(42.394676000300002, -71.144296999999895)",42.394676,-71.144297,"150/180 Cambridgepark Dr R&D.  TIS July, 2008",,,,,,,,,,,,,,,,,,,849,,,,,,,,,,,,,,,,,,,,,,,,,,,,93,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,,,,,,,,,
+156,Cambridgepark Drive,CAMBRIDGE PARK DRIVE,"150 Cambridgepark Drive Site Driveway - East
+(42.394929999699897, -71.146419000099897)",42.39493,-71.146419,"150/180 Cambridgepark Dr R&D.  TIS July, 2008",,,,,,,,,,,,,,,,,,,845,,,,,,,,,,,,,,,,,,,,,,,,,,,,132,,,,,,,,,,,,,,,,,,,,,,,,,,,,116,,,,,,,,,,
+157,Cambridgepark Drive,CAMBRIDGE PARK DRIVE,"150 Cambridgepark Drive Site Driveway - West
+(42.395051000099897, -71.147039000199896)",42.395051,-71.147039,"150/180 Cambridgepark Dr R&D.  TIS July, 2008",,,,,,,,,,,,,,,,,,,184,,,,,,,,,,,,,,,,,,,,,,,,,,,,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,22,,,,,,,,,,
+158,BU Bridge,BU Bridge,"BU Bridge
+(42.352819689199897, -71.110567431299899)",42.35281969,-71.11056743,"DCR BU Bridge Rehabilitation project, 2009. June 2009 Presentation.",,,,,,,,,,,,,,,,,,,,35400,,,,,,,,,,,,,,,,,,,,,,,,,,,,2690,,,,,,,,,,,,,,,,,,,,,,,,,,,,3040,,,,,,,,,
+159,Mt. Auburn St,MOUNT AUBURN ST,"at Athens Street
+(42.370753000000001, -71.115181000500002)",42.370753,-71.115181,"Zero Arrow TIS, Jan. 27, 2003.",,,,,,,,,,,,,9860,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+160,Arrow Street,ARROW ST,"South of Mass. Ave.
+(42.371244477399898, -71.114919893000007)",42.37124448,-71.11491989,"Zero Arrow TIS, Jan. 27, 2003.",,,,,,,,,,,,,2030,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+161,Massachusetts Avenue,MASS AVE,"East of Arrow Street
+(42.37071933, -71.113754047599897)",42.37071933,-71.11375405,"Zero Arrow TIS, Jan. 27, 2003. 2013 TP&T Citywide Counts;",,,,,,,,,,,,,11670,,,,,,,,,,,8230,,,,,,,,,,,,,,,,,,,,,,,,,,,,690,,,,,,,,,,,,,,,,,,,,,,,,,,,,1072,,,,,
+162,Massachusetts Avenue,MASS AVE,"North/West of Albany Street
+(42.360992252099898, -71.096269526699899)",42.36099225,-71.09626953,"Necco (Novartis Expansion) TIS, April 2005. Novartis R&D Expansion, TIS, 9/2011 (counts done in May 2011). April 2013 counts from Citywide Counts (used wed &thur Average)",,,,,,,,,,,,,,,,18050,,,,,,18543,,16377,,,,,,,,,,,,,,,,,,,,1204,,,,,,1118,,915,,,,,,,,,,,,,,,,,,,,1325,,,,,,1233,,1020,,,,,
+163,Albany Street,ALBANY ST,"West of Massachusetts Avenue
+(42.3607195899, -71.096245160400002)",42.36071959,-71.09624516,"Necco (Novartis Expansion) TIS, April 2005.",,,,,,,,,,,,,,,,4150,,,,,,,,,,,,,,,,,,,,,,,,,,,,380,,,,,,,,,,,,,,,,,,,,,,,,,,,,341,,,,,,,,,,,,,
+164,O'Brien Highway,MCGRATH HIGHWAY,"West of Land Boulevard.
+(42.369500414100003, -71.073892633300005)",42.36950041,-71.07389263,"Proposed North Point Residential Development, CE Smith/Archstone, March 2002, Vanasse&Assoc.",,,,,,,,,,,,37900,,,,,,,,,,,,,,,,,,,,,,,,,,,,2203,,,,,,,,,,,,,,,,,,,,,,,,,,,,2168,,,,,,,,,,,,,,,,,
+165,Cambridge Street,CAMBRIDGE ST,"East of Prescott Street
+(42.375300056999897, -71.113005125399894)",42.37530006,-71.11300513,"Harvard University Knafel Project TIS, July 2000, VHB.",,,,,,,,,,,14500,,,,,,,,,,,,,,,,,,,,,,,,,,,,1170,,,,,,,,,,,,,,,,,,,,,,,,,,,,1040,,,,,,,,,,,,,,,,,,
+166,Oxford Street,OXFORD ST,"South of Sacramento Street
+(42.382441743000001, -71.116216745299894)",42.38244174,-71.11621675,"Harvard University North Campus Transportation Study, Feb. 2004. (ADT from March 2003).",,,,,,,,,,,,,,6576,,,,,,,,,,,,,,,,,,,,,,,,,,,,609,,,,,,,,,,,,,,,,,,,,,,,,,,,,543,,,,,,,,,,,,,,,
+167,Oxford Street,OXFORD ST,"South of Hammond Street
+(42.380790830000002, -71.116412593199897)",42.38079083,-71.11641259,"Harvard University North Campus Transportation Study, Feb. 2004. (ADT from March 2003).",,,,,,,,,,,,,,6806,,,,,,,,,,,,,,,,,,,,,,,,,,,,497,,,,,,,,,,,,,,,,,,,,,,,,,,,,668,,,,,,,,,,,,,,,
+168,Oxford Street,OXFORD ST,"South of Everett Street
+(42.379643131100003, -71.116519099499897)",42.37964313,-71.1165191,"Harvard University North Campus Transportation Study, Feb. 2004. (ADT from March 2003).",,,,,,,,,,,,,,7123,,,,,,,,,,,,,,,,,,,,,,,,,,,,562,,,,,,,,,,,,,,,,,,,,,,,,,,,,605,,,,,,,,,,,,,,,
+169,Sacramento Street,SACRAMENTO ST,"West of Oxford Street
+(42.382568347700001, -71.116493121000005)",42.38256835,-71.11649312,"Harvard University North Campus Transportation Study, Feb. 2004. (ADT from March 2003).",,,,,,,,,,,,,,1041,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,,,,,,,,,,,,,,,,,,,,,,,,,,,,108,,,,,,,,,,,,,,,
+170,Wendall Street,Wendall Street,"West of Oxford Street
+(42.381574667300001, -71.116578815899899)",42.38157467,-71.11657882,"Harvard University North Campus Transportation Study, Feb. 2004. (ADT from March 2003).",,,,,,,,,,,,,,3872,,,,,,,,,,,,,,,,,,,,,,,,,,,,308,,,,,,,,,,,,,,,,,,,,,,,,,,,,403,,,,,,,,,,,,,,,
+171,Everett Street,EVERETT ST,"West of Oxford Street
+(42.379836712900001, -71.116761673900001)",42.37983671,-71.11676167,"Harvard University North Campus Transportation Study, Feb. 2004. (ADT from March 2003).",,,,,,,,,,,,,,3407,,,,,,,,,,,,,,,,,,,,,,,,,,,,323,,,,,,,,,,,,,,,,,,,,,,,,,,,,307,,,,,,,,,,,,,,,
+172,Kirkland Street,KIRKLAND ST,"East of Oxford Street
+(42.376404851399897, -71.115242476199896)",42.37640485,-71.11524248,"Harvard University North Campus Transportation Study, Feb. 2004. (ADT from March 2003).",,,,,,,,,,,,,,6773,,,,,,,,,,,,,,,,,,,,,,,,,,,,573,,,,,,,,,,,,,,,,,,,,,,,,,,,,728,,,,,,,,,,,,,,,
+173,Kirkland Street,KIRKLAND ST,"East of Quincy Street
+(42.376661157100003, -71.113922365600004)",42.37666116,-71.11392237,"Harvard University North Campus Transportation Study, Feb. 2004. (ADT from March 2003). 2013 TP&T Citywide Counts(Used Wed &Thu Average)",,,,,,,,,,,,,,10170,,,,,,,,,,9163,,,,,,,,,,,,,,,,,,740,,,,,,,,,,615,,,,,,,,,,,,,,,,,,778,,,,,,,,,,680,,,,,
+174,Quincy Street,QUINCY ST,"North of Cambridge Street
+(42.376092926600002, -71.114238936600003)",42.37609293,-71.11423894,"Harvard University North Campus Transportation Study, Feb. 2004. (ADT from March 2003).",,,,,,,,,,,,,,13099,,,,,,,,,,,,,,,,,,,,,,,,,,,,919,,,,,,,,,,,,,,,,,,,,,,,,,,,,985,,,,,,,,,,,,,,,
+175,Hammond Street,HAMMOND ST,"East of Oxford Street
+(42.380843432600003, -71.115939085799894)",42.38084343,-71.11593909,"Harvard University North Campus Transportation Study, Feb. 2004. (ADT from March 2003).",,,,,,,,,,,,,,616,,,,,,,,,,,,,,,,,,,,,,,,,,,,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,60,,,,,,,,,,,,,,,
+176,Francis Avenue,FRANCIS AVE,"North of Kirkland Street
+(42.377534569600002, -71.111684615000001)",42.37753457,-71.11168462,"Harvard University North Campus Transportation Study, Feb. 2004. (ADT from March 2003).",,,,,,,,,,,,,,897,,,,,,,,,,,,,,,,,,,,,,,,,,,,121,,,,,,,,,,,,,,,,,,,,,,,,,,,,86,,,,,,,,,,,,,,,
+177,Sixth Street,SIXTH ST,"North of Binney Street
+(42.366516031700002, -71.086003108300005)",42.36651603,-71.08600311,"300 Bent Street TIS, Nov. 10, 1999, VHB.",,,,,,,,,,2450,,,,,,,,,,,,,,,,,,,,,,,,,,,,280,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,,,,,,,,,,,,,,,,,,,
+178,Sixth Street,SIXTH ST,"North of Bent Street
+(42.367755999700002, -71.085698000400001)",42.367756,-71.085698,"300 Bent Street TIS, Nov. 10, 1999, VHB.",,,,,,,,,,2190,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,,,,,,,,,,,,,,,,,,,,,,,,,,,,235,,,,,,,,,,,,,,,,,,,
+179,Concord Avenue,CONCORD AVE,"East of Blanchard
+(42.390873745199897, -71.156889008700006)",42.39087375,-71.15688901,Cordon Counts,,,,,,,,,17780,,,,,,,,,,,,,,,,,,,,,,,,,,,,1487,,,,,,,,,,,,,,,,,,,,,,,,,,,,1273,,,,,,,,,,,,,,,,,,,,
+180,Huron Avenue,HURON AVE,"East of Grove Street
+(42.382060915099899, -71.157364812400004)",42.38206092,-71.15736481,Cordon Counts,,,,,,,,,10595,,,,,,,,,,,,,,,,,,,,,,,,,,,,1238,,,,,,,,,,,,,,,,,,,,,,,,,,,,972,,,,,,,,,,,,,,,,,,,,
+181,Huron Avenue,HURON AVE,"West of Larch Rd.
+(42.380182218500003, -71.143844373099896)",42.38018222,-71.14384437,Cordon Counts; 2013 TP&T Citywide Counts(Used Wed &Thu Average);,,,,,,,,,10371,,,,,,,,,,,,,,,9018,,,,,,,,,,,,,982,,,,,,,,,,,,,,,702,,,,,,,,,,,,,1126,,,,,,,,,,,,,,,631,,,,,
+182,J.F.K. Street,JFK ST,"North of Memorial Drive
+(42.370031921299898, -71.122271630900002)",42.37003192,-71.12227163,"1998, Cordon Count; Aug. 2010 Functional Design Report for Rehab of Anderson Memorial Bridge, MassDot, prepared by FST.",,,,,,,,,24639,,,,,,,,,,,,20900,,,,,,,,,,,,,,,,1511,,,,,,,,,,,,1620,,,,,,,,,,,,,,,,1625,,,,,,,,,,,,1370,,,,,,,,
+183,Kirkland Street,KIRKLAND ST,"East of Myrtle Avenue
+(42.378017468000003, -71.107608486499899)",42.37801747,-71.10760849,Cordon Counts,,,,,,,,,14342,,,,,,,,,,,,,,,,,,,,,,,,,,,,1021,,,,,,,,,,,,,,,,,,,,,,,,,,,,1077,,,,,,,,,,,,,,,,,,,,
+184,Land Boulevard,Land Blvd,"South of O'Brien Hwy.
+(42.368868536000001, -71.0734090694)",42.36886854,-71.07340907,"1998 Cordon Count & North Point TIS, Oct. 29, 2002.",,,,,,,,,35592,,,,32600,,,,,,,,,,,,,,,,,,,,,,,,2359,,,,2160,,,,,,,,,,,,,,,,,,,,,,,,3443,,,,2520,,,,,,,,,,,,,,,,
+185,Magazine Street,MAGAZINE ST,"North of Memorial Drive
+(42.356462074500001, -71.114004945600001)",42.35646207,-71.11400495,Cordon Counts.  TPT Cambridgeport ADT's May 2011.,,,,,,,,,3064,,,,,,,,,,,,,3012,,,,,,,,,,,,,,,203,,,,,,,,,,,,,,,,,,,,,,,,,,,,331,,,,,,,,,,,,,,,,,,,,
+186,Main Street,MAIN ST,"West of Memorial Drive. Between Longfellow bridge and Third Street.
+(42.361993044199899, -71.080646688599899)",42.36199304,-71.08064669,"1998 Cordon Counts. 2013 Longfellow Gateway Pedestrian Crossing Evaluation,  McMahon for Kathy Watkins, DPW.",,,,,,,,,25278,,,,,,,,,,,,,,,25551,,,,,,,,,,,,,1871,,,,,,,,,,,,,,,,,,,,,,,,,,,,2061,,,,,,,,,,,,,,,,,,,,
+187,Massachusetts Avenue,MASS AVE,"North of Memorial Drive
+(42.357735875099898, -71.092898183299894)",42.35773588,-71.09289818,Cordon Counts,,,,,,,,,29551,,,,,,,,,,,,,,,,,,,,,,,,,,,,1879,,,,,,,,,,,,,,,,,,,,,,,,,,,,2166,,,,,,,,,,,,,,,,,,,,
+188,Massachusetts Avenue,MASS AVE,"South or East of Magoun Street
+(42.400316584700001, -71.134752150799898)",42.40031658,-71.13475215,1998 Cordon Counts; Tyler Green Residential TIS (counts in April 2011); 2013 TP&T Citywide Counts.(2013 counts used wed & Thur Average),,,,,,,,,29347,,,,,,,,,,,,,,25805,21891,,,,,,,,,,,,,2422,,,,,,,,,,,,,,1904,1409,,,,,,,,,,,,,2297,,,,,,,,,,,,,,2013,1458,,,,,
+189,Memorial Drive,MEMORIAL DR,"South of Mt. Auburn Street
+(42.374233330499898, -71.126469229999898)",42.37423333,-71.12646923,Cordon Counts,,,,,,,,,9096,,,,,,,,,,,,,,,,,,,,,,,,,,,,644,,,,,,,,,,,,,,,,,,,,,,,,,,,,668,,,,,,,,,,,,,,,,,,,,
+190,Mt. Auburn Street,MOUNT AUBURN ST,"West of Trail Street
+(42.375057000300004, -71.136835999900001)",42.375057,-71.136836,"Cordon Counts. Mount Auburn Hospital Expansion TIS, May 31, 2005. ATR counts are from Nov. 17, 2004. 2013 TP&T Citywide Counts(Used Wed &Thu Average);",,,,,,,,,12050,,,,,,11310,,,,,,,,,11155,,,,,,,,,,,,,1026,,,,,,915,,,,,,,,,743,,,,,,,,,,,,,1019,,,,,,800,,,,,,,,,906,,,,,
+191,Mt. Auburn Street,MOUNT AUBURN ST,"West of Homer Ave.
+(42.374870524800002, -71.148643339800003)",42.37487052,-71.14864334,Cordon Counts,25076,21417,21304,,,,,,22111,,,,,,,,,,,,,,,,,,,,,,,,,,,,1279,,,,,,,,,,,,,,,,,,,,,,,,,,,,1538,,,,,,,,,,,,,,,,,,,,
+192,O'Brien Highway,MCGRATH HIGHWAY,"East of Land Blvd.
+(42.368929480399899, -71.072739973799898)",42.36892948,-71.07273997,Cordon Counts,,,,,,,,,45270,,,,,,,,,,,,,,,,,,,,,,,,,,,,3349,,,,,,,,,,,,,,,,,,,,,,,,,,,,2489,,,,,,,,,,,,,,,,,,,,
+193,O'Brien Highway,MCGRATH HIGHWAY,"West of Land Blvd.
+(42.369601999899899, -71.073838000099897)",42.369602,-71.073838,Cordon Counts,,,,,,,,,37032,,,,,,,,,,,,,,,,,,,,,,,,,,,,2757,,,,,,,,,,,,,,,,,,,,,,,,,,,,2398,,,,,,,,,,,,,,,,,,,,
+194,Oxford Street,OXFORD ST,"North of Forest Street
+(42.385339122700003, -71.116136421700006)",42.38533912,-71.11613642,Cordon Counts,3810,6963,6631,,,,,,4987,,,,,,,,,,,,,,,,,,,,,,,,,,,,366,,,,,,,,,,,,,,,,,,,,,,,,,,,,409,,,,,,,,,,,,,,,,,,,,
+196,Plympton Street,PLYMPTON ST,"East of Memorial Drive
+(42.369752000399899, -71.118027000300003)",42.369752,-71.118027,Cordon Counts,1901,2020,2017,,,,,,2128,,,,,,,,,,,,,,,,,,,,,,,,,,,,174,,,,,,,,,,,,,,,,,,,,,,,,,,,,205,,,,,,,,,,,,,,,,,,,,
+197,Prospect Street,PROSPECT ST,"North of Cambridge Street
+(42.373663145199899, -71.097928198999895)",42.37366315,-71.0979282,Cordon Counts; 2013 TP&T Citywide Counts(Used Wed &Thu Average),12664,12113,13616,,,,,,14778,,,,,,,,,,,,,,,10683,,,,,,,,,,,,,852,,,,,,,,,,,,,,,561,,,,,,,,,,,,,1027,,,,,,,,,,,,,,,699,,,,,
+198,Rindge Avenue,RINDGE AVE,"East of Alewife Brook Pkwy
+(42.393933642699899, -71.139044299199895)",42.39393364,-71.1390443,Cordon Counts; 2013 TP&T Citywide Counts;,9800,17633,9117,,,,,,11546,,,,,,,,,,,,,,,9164,,,,,,,,,,,,,826,,,,,,,,,,,,,,,927,,,,,,,,,,,,,955,,,,,,,,,,,,,,,1306,,,,,
+199,River Street,RIVER ST,"East of Memorial Drive
+(42.3616663634999, -71.1153001805)",42.36166636,-71.11530018,Cordon Counts;2013 TP&T Citywide Counts(Used Wed &Thu Average),,14968,17568,,,,,,17386,,,,,,,,,,,,,,,11637,,,,,,,,,,,,,1193,,,,,,,,,,,,,,,778,,,,,,,,,,,,,1293,,,,,,,,,,,,,,,771,,,,,
+200,Route 2,Route 2,"West of Alewife Brook Pkwy
+(42.3980780264, -71.143035794900001)",42.39807803,-71.14303579,Cordon Counts,46475,48921,55675,,,,,,61724,,,,,,,,,,,,,,,,,,,,,,,,,,,,4343,,,,,,,,,,,,,,,,,,,,,,,,,,,,4514,,,,,,,,,,,,,,,,,,,,
+201,Russell Street,Russell St,"East of Mass. Avenue
+(42.391569965400002, -71.123734459999895)",42.39156997,-71.12373446,Cordon Counts,,,,,,,,,3290,,,,,,,,,,,,,,,,,,,,,,,,,,,,277,,,,,,,,,,,,,,,,,,,,,,,,,,,,320,,,,,,,,,,,,,,,,,,,,
+202,Scott Street,SCOTT ST,"West of Bryant
+(42.379350999800003, -71.109811000500002)",42.379351,-71.109811,Cordon Counts,1557,1755,,,,,,,1461,,,,,,,,,,,,,,,,,,,,,,,,,,,,69,,,,,,,,,,,,,,,,,,,,,,,,,,,,181,,,,,,,,,,,,,,,,,,,,
+203,Somerville Avenue,SOMERVILLE AVE,"East of White Street
+(42.388251999799898, -71.118569000500003)",42.388252,-71.118569,Cordon Counts,13396,17146,20333,,,,,,17053,,,,,,,,,,,,,,,,,,,,,,,,,,,,1228,,,,,,,,,,,,,,,,,,,,,,,,,,,,1227,,,,,,,,,,,,,,,,,,,,
+204,Springfield Street,SPRINGFIELD ST,"North of Cambridge Street
+(42.3741860003, -71.100412000299897)",42.374186,-71.100412,Cordon Counts,,,,,,,,,3331,,,,,,,,,,,,,,,,,,,,,,,,,,,,292,,,,,,,,,,,,,,,,,,,,,,,,,,,,270,,,,,,,,,,,,,,,,,,,,
+205,T Access Road (Alewife),T Access Road (Alewife),"North of Egress Rd.
+(42.396856000100001, -71.143309000499897)",42.396856,-71.143309,Cordon Counts,,,,,,,,,10266,,,,,,,,,,,,,,,,,,,,,,,,,,,,2529,,,,,,,,,,,,,,,,,,,,,,,,,,,,649,,,,,,,,,,,,,,,,,,,,
+206,T Egress Road (Alewife),T Egress Road (Alewife),"North of Alewife Center Dr.
+(42.397410000000001, -71.140322999999995)",42.39741,-71.140323,Cordon Counts,,,,,,,,,5932,,,,,,,,,,,,,,,,,,,,,,,,,,,,389,,,,,,,,,,,,,,,,,,,,,,,,,,,,928,,,,,,,,,,,,,,,,,,,,
+207,Third Street,THIRD ST,"South of O'Brien Hwy.
+(42.3721897341999, -71.079574130300003)",42.37218973,-71.07957413,Cordon Counts,8532,12845,14192,,,,,,14184,,,,,,,,,,,,,,,,,,,,,,,,,,,,1052,,,,,,,,,,,,,,,,,,,,,,,,,,,,1374,,,,,,,,,,,,,,,,,,,,
+208,Vasser Street,VASSAR ST,"North of Memorial Drive
+(42.3540900003999, -71.107042999800001)",42.35409,-71.107043,Cordon Counts,2601,4697,6169,,,,,,5677,,,,,,,,,,,,,,,,,,,,,,,,,,,,659,,,,,,,,,,,,,,,,,,,,,,,,,,,,482,,,,,,,,,,,,,,,,,,,,
+209,Wadsworth Street,WADSWORTH ST,"North of Memorial Drive
+(42.360667263000003, -71.084121573399898)",42.36066726,-71.08412157,Cordon Counts,6958,7039,4763,,,,,,3257,,,,,,,,,,,,,,,,,,,,,,,,,,,,438,,,,,,,,,,,,,,,,,,,,,,,,,,,,207,,,,,,,,,,,,,,,,,,,,
+210,Warren Street,WARREN ST,"North of Cambridge St.
+(42.372399066600003, -71.088197632299895)",42.37239907,-71.08819763,Cordon Counts,,,,,,,,,4898,,,,,,,,,,,,,,,,,,,,,,,,,,,,245,,,,,,,,,,,,,,,,,,,,,,,,,,,,466,,,,,,,,,,,,,,,,,,,,
+211,Webster Avenue,Webster Ave,"North of Cambridge Street
+(42.3730571076999, -71.094325778400005)",42.37305711,-71.09432578,Cordon Counts,9983,8208,9159,,,,,,9143,,,,,,,,,,,,,,,,,,,,,,,,,,,,633,,,,,,,,,,,,,,,,,,,,,,,,,,,,749,,,,,,,,,,,,,,,,,,,,
+212,Western Avenue,WESTERN AVE,"East of Memorial Drive
+(42.364371387699897, -71.115279938100002)",42.36437139,-71.11527994,Cordon Counts,11798,12353,17439,,,,,,16032,,,,,,,,,,,,,,,,,,,,,,,,,,,,983,,,,,,,,,,,,,,,,,,,,,,,,,,,,1290,,,,,,,,,,,,,,,,,,,,
+213,Mt. Auburn Street,MOUNT AUBURN ST,"West of Eliot Street
+(42.372967149399898, -71.1218465713999)",42.37296715,-71.12184657,"Conductor's Building Restoration Proejct, TIS, June 2008.",,,,,,,,,,,,,,,,,,,5720,,,,,,,,,,,,,,,,,,,,,,,,,,,,400,,,,,,,,,,,,,,,,,,,,,,,,,,,,360,,,,,,,,,,
+214,Broadway,BROADWAY ST,"West of Main Street
+(42.3625257254999, -71.084104577600002)",42.36252573,-71.08410458,"MIT Sloan School of Mangement, Project Review Special Permit Application, Jan. 8, 2007.",,,,,,,,,,,,,,,,,19501,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+215,Wadsworth Street,WADSWORTH ST,"South of Main Street
+(42.361901461099897, -71.084308523499899)",42.36190146,-71.08430852,"MIT Sloan School of Mangement, Project Review Special Permit Application, Jan. 8, 2007.",,,,,,,,,,,,,,,,,2412,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+216,Main Street,MAIN ST,"East of Wadsworth Street
+(42.3621081617, -71.0837261689)",42.36210816,-71.08372617,"MIT Sloan School of Mangement, Project Review Special Permit Application, Jan. 8, 2007.",,,,,,,,,,,,,,,,,4706,,,,,,,,,,,,,,,,,,,,,,,,,,,,290,,,,,,,,,,,,,,,,,,,,,,,,,,,,379,,,,,,,,,,,,
+217,Route 2,Route 2,"West of Alewife Brook Parkway
+(42.398015438400002, -71.143184744099898)",42.39801544,-71.14318474,"Cambridge Discovery Park TIS, September, 2004.",,,,,,,,,,,,,,,62600,,,,,,,,,,,,,,,,,,,,,,,,,,,,4203,,,,,,,,,,,,,,,,,,,,,,,,,,,,4900,,,,,,,,,,,,,,
+218,Route 2,Route 2,"Exit ramp, east of Acorn Park Drive
+(42.398670852999899, -71.145772473799894)",42.39867085,-71.14577247,"Cambridge Discovery Park TIS, September, 2004.",,,,,,,,,,,,,,,11100,,,,,,,,,,,,,,,,,,,,,,,,,,,,1972,,,,,,,,,,,,,,,,,,,,,,,,,,,,866,,,,,,,,,,,,,,
+220,Blanchard,BLANCHARD RD,"(42.392525543399898, -71.157744495200006)",42.39252554,-71.1577445,"Cambridge Discovery Park TIS, September, 2004.",,,,,,,,,,,,,,,960,,,,,,,,,,,,,,,,,,,,,,,,,,,,364,,,,,,,,,,,,,,,,,,,,,,,,,,,,288,,,,,,,,,,,,,,
+221,Acorn Park Drive,Acorn Park Drive,"South of Route 2, south of Alewife Access Road off Rt. 2.
+(42.398242132500002, -71.146561139499894)",42.39824213,-71.14656114,"Cambridge Discovery Park TIS, September, 2004.  Residences at Alewife Station (VoxII) TIS, Nov. 2016 (counts Sept. 2016).",,,,,,,,,,,,,,,510,,,,,,,,,,,,1290,,,,,,,,,,,,,,,,86,,,,,,,,,,,,259,,,,,,,,,,,,,,,,66,,,,,,,,,,,,80,,
+222,Acorn Park Drive,Acorn Park Drive,"West of Discovery Park internal driveway
+(42.397817254899898, -71.150931397400001)",42.39781725,-71.1509314,"Cambridge Discovery Park TIS, September, 2004.",,,,,,,,,,,,,,,740,,,,,,,,,,,,,,,,,,,,,,,,,,,,377,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,,,,,,,,,,,,,,
+223,Frontage Road,Frontage Road,"East of Lake Street
+(42.401586999999999, -71.157017999999994)",42.401587,-71.157018,"Cambridge Discovery Park TIS, September, 2004.",,,,,,,,,,,,,,,5900,,,,,,,,,,,,,,,,,,,,,,,,,,,,708,,,,,,,,,,,,,,,,,,,,,,,,,,,,653,,,,,,,,,,,,,,
+224,Main Street,MAIN ST,"Between Vassar Street and Ames Street
+(42.362634445700003, -71.088804161799899)",42.36263445,-71.08880416,"MIT Cancer Research Facility, 500 Main St, Project Review Special Permit Application, Oct. 29, 2007.",,,,,,,,,,,,,,,,,,8200,,,,,,,,,,,,,,,,,,,,,,,,,,,,465,,,,,,,,,,,,,,,,,,,,,,,,,,,,477,,,,,,,,,,,
+225,Ames Street,AMES ST,"South of Main Street
+(42.3618510911, -71.088300013600005)",42.36185109,-71.08830001,"MIT Cancer Research Facility, 500 Main St, Project Review Special Permit Application, Oct. 29, 2007.",,,,,,,,,,,,,,,,,,5400,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+226,Pearl Street,PEARL ST,"Between McTernan Street and Erie Street
+(42.3603350429999, -71.107366555599896)",42.36033504,-71.10736656,"Blessed Sacrament Project, Special Permit Application, Dec. 28, 2005.",,,,,,,,,,,,,,,,3300,,,,,,,,,,,,,,,,,,,,,,,,,,,,260,,,,,,,,,,,,,,,,,,,,,,,,,,,,280,,,,,,,,,,,,,
+227,Charlestown Avenue,Charlestown Avenue,"North of O'Brien Hwy.
+(42.369598000099899, -71.072785000400003)",42.369598,-71.072785,"North Point TIS, Oct. 29, 2002.",,,,,,,,,,,,,35500,,,,,,,,,,,,,,,,,,,,,,,,,,,,2500,,,,,,,,,,,,,,,,,,,,,,,,,,,,2940,,,,,,,,,,,,,,,,
+228,O'Brien Highway,MCGRATH HIGHWAY,"West of Cambridge Street
+(42.370911, -71.076277999400006)",42.370911,-71.076278,"North Point TIS, Oct. 29, 2002.",,,,,,,,,,,,,32400,,,,,,,,,,,,,,,,,,,,,,,,,,,,2040,,,,,,,,,,,,,,,,,,,,,,,,,,,,2120,,,,,,,,,,,,,,,,
+229,O'Brien Highway,MCGRATH HIGHWAY,"East of Industrial Way
+(42.370646427899899, -71.075713539099894)",42.37064643,-71.07571354,"North Point TIS, Oct. 29, 2002.",,,,,,,,,,,,,39700,,,,,,,,,,,,,,,,,,,,,,,,,,,,2690,,,,,,,,,,,,,,,,,,,,,,,,,,,,2440,,,,,,,,,,,,,,,,
+231,Cambridge Street,CAMBRIDGE ST,"West of First Street
+(42.3706685951, -71.077131053299894)",42.3706686,-71.07713105,"North Point TIS, Oct. 29, 2002. 2013 TP&T Citywide Counts(Used Wed &Thu Average)",,,,,,,,,,,,,9600,,,,,,,,,,,7731,,,,,,,,,,,,,,,,,613,,,,,,,,,,,461,,,,,,,,,,,,,,,,,574,,,,,,,,,,,476,,,,,
+233,Third Street,THIRD ST,"South of Cambridge Street
+(42.3708290516999, -71.079897595999896)",42.37082905,-71.0798976,"North Point TIS, Oct. 29, 2002.",,,,,,,,,,,,,8200,,,,,,,,,,,,,,,,,,,,,,,,,,,,560,,,,,,,,,,,,,,,,,,,,,,,,,,,,670,,,,,,,,,,,,,,,,
+234,East Street,EAST ST,"North of O'Brien Hwy.
+(42.3710211796, -71.075767127600002)",42.37102118,-71.07576713,"North Point TIS, Oct. 29, 2002. North Point2012 Monitoring Report, VHB.",,,,,,,,,,,,,3000,,,,,,,,,,2883,,,,,,,,,,,,,,,,,,250,,,,,,,,,,,,,,,,,,,,,,,,,,,,230,,,,,,,,,,,,,,,,
+235,Land Boulevard,Land Blvd,"At O'Brien Highway
+(42.369204999600001, -71.0732580001999)",42.369205,-71.073258,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+236,Cameron Avenue,Cameron Ave,"East of Massachusetts Avenue
+(42.397816336799899, -71.129794164800003)",42.39781634,-71.12979416,"2419 Massachusetts Avenue Traffic Impact and Access Study, July 2009. (Rounder Records site residential project). ADT done June 2009.",,,,,,,,,,,,,,,,,,,,6000,,,,,,,,,,,,,,,,,,,,,,,,,,,,486,,,,,,,,,,,,,,,,,,,,,,,,,,,,458,,,,,,,,,
+238,Beech Street,BEECH ST,"East of Massachusetts Avenue
+(42.389765643799898, -71.121325183899899)",42.38976564,-71.12132518,"St. James Renovation Project TIS, 8/19/09.",,,,,,,,,,,,,,,,,,,,8472,,,,,,,,,,,,,,,,,,,,,,,,,,,,569,,,,,,,,,,,,,,,,,,,,,,,,,,,,634,,,,,,,,,
+239,First Street,FIRST ST,"100' North of Charles St.
+(42.367507402999898, -71.077652469300006)",42.3675074,-71.07765247,"Cambridge Research Park, 2009-2014 Traffic Monitoring Report, Transaction Associates. (Average of two day counts)",,,,,,,,,,,,,,,,,,,,7039,7045,6259,6766,8456,7591,6821,7268,,,,,,,,,,,,,,,,,,,,,467,462,407,687,528,494,428,461,,,,,,,,,,,,,,,,,,,,,682,716,597,655,702,708,709,725,,
+240,Second Street,SECOND ST,"100' North of Charles St.
+(42.3676999995999, -71.079340841399897)",42.3677,-71.07934084,"Cambridge Research Park, 2009-2014 Traffic Monitoring Report, Transaction Associates. (Average of two day counts)",,,,,,,,,,,,,,,,,,,,1929,1920,1756,1683,1982,1932,2263,3099,,,,,,,,,,,,,,,,,,,,,134,165,174,170,140,179,221,187,,,,,,,,,,,,,,,,,,,,,276,243,185,200,351,313,319,485,,
+241,Third Street,THIRD ST,"100' North of Charles St.
+(42.367947432400001, -71.080841277199895)",42.36794743,-71.08084128,"Cambridge Research Park, 2009-2014 Traffic Monitoring Report, Transaction Associates. (Average of two day counts).",,,,,,,,,,,,,,,,,,,,8009,8625,8859,8740,9162,7915,7359,8738,,,,,,,,,,,,,,,,,,,,,618,705,682,652,664,602,554,686,,,,,,,,,,,,,,,,,,,,,698,785,814,785,752,731,695,769,,
+242,Sciarappa Street,SCIARAPPA ST,"100' North of Charles St.
+(42.3680995628999, -71.082218266500007)",42.36809956,-71.08221827,"Cambridge Research Park, 2009-2014 Traffic Monitoring Report, Transaction Associates. (Average of two day counts)",,,,,,,,,,,,,,,,,,,,418,466,352,825,456,447,435,591,,,,,,,,,,,,,,,,,,,,,34,34,25,42,37,38,40,30,,,,,,,,,,,,,,,,,,,,,62,62,43,45,60,70,80,122,,
+243,Fifth Street,FIFTH ST,"100' North of Charles St.
+(42.368266887600001, -71.083882100400004)",42.36826689,-71.0838821,"Cambridge Research Park, 2009-2014 Traffic Monitoring Report, Transaction Associates. (Average of two day counts)",,,,,,,,,,,,,,,,,,,,948,841,688,780,816,1106,1085,1273,,,,,,,,,,,,,,,,,,,,,74,74,61,58,65,152,109,86,,,,,,,,,,,,,,,,,,,,,172,112,79,80,100,139,147,226,,
+244,Sixth Street,SIXTH ST,"100' North of Charles St.
+(42.368464412400002, -71.085539780600001)",42.36846441,-71.08553978,"Cambridge Research Park, 2009-2014 Traffic Monitoring Report, Transaction Associates. (Average of two day c ounts)",,,,,,,,,,,,,,,,,,,,2619,2629,2475,2286,2618,2329,2591,3094,,,,,,,,,,,,,,,,,,,,,289,294,357,240,270,210,322,317,,,,,,,,,,,,,,,,,,,,,288,280,183,249,279,297,274,392,,
+245,Fulkerson St. (one-way),FULKERSON ST,"100' North of Charles St.
+(42.368771187500002, -71.087647057500007)",42.36877119,-71.08764706,"Cambridge Research Park, 2009-2014 Traffic Monitoring Report, Transaction Associates. (Average of two day counts)",,,,,,,,,,,,,,,,,,,,2490,2449,2342,2397,2190,2588,2292,,,,,,,,,,,,,,,,,,,,,,279,283,282,232,241,294,264,,,,,,,,,,,,,,,,,,,,,,166,147,150,163,149,166,151,,,
+246,Binney Street,BINNEY ST,"200' West of Fulkerson
+(42.366858748399899, -71.088809546500002)",42.36685875,-71.08880955,"Amgen Center, One Kendall Sq TIS, March 1999. Cambridge Research Park, 2009-2014 Traffic Monitoring Report, Transaction Associates. (Average of two day counts in May)",,,,,,,,,,4690,,,,,,,,,,3475,3582,3654,3802,3974,3929,4290,4986,,,,,,,,,,,400,,,,,,,,,,309,287,282,293,334,330,378,484,,,,,,,,,,,570,,,,,,,,,,389,354,336,372,393,387,412,555,,
+247,Binney Street,BINNEY ST,"Between 2nd and 3rd St.
+(42.365629154200001, -71.081297858499894)",42.36562915,-71.08129786,"Binney Street Project TIS, Nov. 12, 2009 (Alexandria Real Estate Equities, Inc.).",,,,,,,,,,,,,,,,,,,,12545,,,,,,,,,,,,,,,,,,,,,,,,,,,,975,,,,,,,,,,,,,,,,,,,,,,,,,,,,1127,,,,,,,,,
+248,Binney Street,BINNEY ST,"Between 5th and 6th Street
+(42.366053055400002, -71.0853112944)",42.36605306,-71.08531129,"Binney Street Project TIS, Nov. 12, 2009 (Alexandria Real Estate Equities, Inc.).",,,,,,,,,,,,,,,,,,,,12597,,,,,,,,,,,,,,,,,,,,,,,,,,,,845,,,,,,,,,,,,,,,,,,,,,,,,,,,,1220,,,,,,,,,
+249,Land Boulevard,Land Blvd,"South of Binney Street
+(42.364890831899899, -71.077531358300007)",42.36489083,-71.07753136,"Binney Street Project TIS, Nov. 12, 2009 (Alexandria Real Estate Equities, Inc.).",,,,,,,,,,,,,,,,,,,,27624,,,,,,,,,,,,,,,,,,,,,,,,,,,,2190,,,,,,,,,,,,,,,,,,,,,,,,,,,,1985,,,,,,,,,
+250,First Street,FIRST ST,"Between Rogers and Binney St.
+(42.365557853200002, -71.078150640800004)",42.36555785,-71.07815064,"Binney Street Project TIS, Nov. 12, 2009 (Alexandria Real Estate Equities, Inc.).",,,,,,,,,,,,,,,,,,,,5529,,,,,,,,,,,,,,,,,,,,,,,,,,,,414,,,,,,,,,,,,,,,,,,,,,,,,,,,,595,,,,,,,,,
+251,Second Street,SECOND ST,"Between Rogers and Binney St.
+(42.365785855600002, -71.079796848399894)",42.36578586,-71.07979685,"Binney Street Project TIS, Nov. 12, 2009 (Alexandria Real Estate Equities, Inc.).",,,,,,,,,,,,,,,,,,,,2022,,,,,,,,,,,,,,,,,,,,,,,,,,,,147,,,,,,,,,,,,,,,,,,,,,,,,,,,,293,,,,,,,,,
+252,Third Street,THIRD ST,"Between Binney and Linskey Way
+(42.365425278399897, -71.082577258300006)",42.36542528,-71.08257726,"Binney Street Project TIS, Nov. 12, 2009 (Alexandria Real Estate Equities, Inc.).",,,,,,,,,,,,,,,,,,,,8534,,,,,,,,,,,,,,,,,,,,,,,,,,,,744,,,,,,,,,,,,,,,,,,,,,,,,,,,,750,,,,,,,,,
+253,Fifth Street,FIFTH ST,"Between Bent and Charles St.
+(42.367750000000001, -71.084007999799894)",42.36775,-71.084008,"Binney Street Project TIS, Nov. 12, 2009 (Alexandria Real Estate Equities, Inc.).",,,,,,,,,,,,,,,,,,,,848,,,,,,,,,,,,,,,,,,,,,,,,,,,,63,,,,,,,,,,,,,,,,,,,,,,,,,,,,96,,,,,,,,,
+254,Sixth Street,SIXTH ST,"Between Bent and Charles St.
+(42.367905661199899, -71.085667279999896)",42.36790566,-71.08566728,"Binney Street Project TIS, Nov. 12, 2009 (Alexandria Real Estate Equities, Inc.).",,,,,,,,,,,,,,,,,,,,2026,,,,,,,,,,,,,,,,,,,,,,,,,,,,250,,,,,,,,,,,,,,,,,,,,,,,,,,,,154,,,,,,,,,
+255,Third Street,THIRD ST,"Between Rogers and Binney St.
+(42.366074817300003, -71.0822025553)",42.36607482,-71.08220256,"Binney Street Project TIS, Nov. 12, 2009 (Alexandria Real Estate Equities, Inc.).",,,,,,,,,,,,,,,,,,,,8880,,,,,,,,,,,,,,,,,,,,,,,,,,,,650,,,,,,,,,,,,,,,,,,,,,,,,,,,,792,,,,,,,,,
+261,Main Street,MAIN ST,"Near MBTA station (Eastbound only for Main Street)
+(42.362513316200001, -71.086953705699898)",42.36251332,-71.08695371,"Kendall Sq. Urban Renewal, Cambridge Redevelopment Authority.",,,,4250,6300,5400,4050,5250,5900,5800,5500,5950,,5700,5400,5100,4900,5400,5100,5150,5400,5450,5450,5250,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+262,Broadway,BROADWAY ST,"West of Midblock Connector.
+(42.364117784199898, -71.087738957499894)",42.36411778,-71.08773896,"Kendall Sq. Urban Renewal, Cambridge Redevelopment Authority, 11/25/09.",,,,36700,17700,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+263,Broadway,BROADWAY ST,"East of Midblock Connector.
+(42.363506891100002, -71.086267917900003)",42.36350689,-71.08626792,"Kendall Sq. Urban Renewal, Cambridge Redevelopment Authority.",,,,,18200,18700,17850,18200,21350,20400,20150,21500,,18200,19250,19300,18450,19700,18450,16850,19200,20100,17300,19900,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+264,Binney Street,BINNEY ST,"West of Third Street
+(42.365789687899898, -71.082855096800003)",42.36578969,-71.0828551,"Kendall Sq. Urban Renewal, Cambridge Redevelopment Authority. 249 Third St. TIS for 2014 (counts done Sept. 17&18, 2014); BioGen R&D, March 1999",,,,8800,10900,11200,11750,12050,13400,13850,14100,14250,,13200,12800,13550,12750,14550,12950,12900,13100,12050,13050,13200,11821,,,,,,,,,,,,988,,,,,,,,,,,,,,,,835,,,,,,,,,,,,11446,,,,,,,,,,,,,,,,975,,,,
+265,Third Street,THIRD ST,"North of Broadway
+(42.363050545500002, -71.084103665599898)",42.36305055,-71.08410367,"Kendall Sq. Urban Renewal, Cambridge Redevelopment Authority, 11/25/09.",,,,,10600,10350,12400,11000,11200,11050,11750,11650,,11550,10600,9200,9300,8550,9200,8500,10050,10450,10650,10500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+266,Vassar Street,VASSAR ST,"West or South of Main Street
+(42.3623479002, -71.090438378900004)",42.3623479,-71.09043838,"Kendall Sq. Urban Renewal, Cambridge Redevelopment Authority, 11/25/09.",,,,,10300,10600,9950,10000,10100,10550,11300,10400,,,11150,14450,11500,9700,9400,9300,11450,11700,11600,12750,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+267,Trowbridge Street (one-way NB),Trowbridge St,"North of Massachusetts Avenue
+(42.370579490200001, -71.112609421499897)",42.37057949,-71.11260942,"1075 Massachusetts Avenue Traffic Impact Assessment, March 2010. ATR's completed first week of March 2010.",,,,,,,,,,,,,,,,,,,,,3500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,350,,,,,,,,
+268,Hampshire Street,HAMPSHIRE ST,"West of Webster St.
+(42.367046000099897, -71.0927179997)",42.367046,-71.092718,"201 Broadway Proposed Office Building, Traffic Impact & Access Memorandum, VHB, July 1988. (note: counts are Jan. 1988).",,,,7040,,,,,,,,,,,,,,,,,,,,,,,,,,,,640,,,,,,,,,,,,,,,,,,,,,,,,,,,,730,,,,,,,,,,,,,,,,,,,,,,,,,
+269,Broadway,BROADWAY ST,"West of Portland (at 201 Broadway site)
+(42.3659124474, -71.092417230099898)",42.36591245,-71.09241723,"201 Broadway Proposed Office Building, Traffic Impact & Access Memorandum, VHB, July 1988. (note: counts are Jan. 1988).",,,,11120,,,,,,,,,,,,,,,,,,,,,,,,,,,,960,,,,,,,,,,,,,,,,,,,,,,,,,,,,970,,,,,,,,,,,,,,,,,,,,,,,,,
+270,Blanchard Road,BLANCHARD RD,"By the raised device.
+(42.3886944411, -71.1573771483)",42.38869444,-71.15737715,"Vollmer, June 2004 Count, City of Cambridge 2006 counts, McMahon Sept. 2007, HDR Oct. 2009, HDR April 2010.",,,,,,,,,,,,,,,12850,,11980,11800,,10100,12200,,,,,,,,,,,,,,,,,,,,,,960,,1150,940,,1050,975,,,,,,,,,,,,,,,,,,,,,,1005,,1020,1030,,990,1050,,,,,,,,
+271,Roseland Street,ROSELAND ST,"East of Mass. Avenue
+(42.3867691503999, -71.118434303100003)",42.38676915,-71.1184343,"Lesley University Art Insititute TIS, Nov. 2010.",,,,,,,,,,,,,,,,,,,,,4015,,,,,,,,,,,,,,,,,,,,,,,,,,,,325,,,,,,,,,,,,,,,,,,,,,,,,,,,,312,,,,,,,,
+272,Mass. Avenue,MASS AVE,"North of Roseland Street
+(42.387117000099899, -71.119101000399894)",42.387117,-71.119101,"Lesley University Art Institute TIS, Nov. 2010",,,,,,,,,,,,,,,,,,,,,17613,,,,,,,,,,,,,,,,,,,,,,,,,,,,1560,,,,,,,,,,,,,,,,,,,,,,,,,,,,1598,,,,,,,,
+273,Mass. Avenue,MASS AVE,"North of Upland Road
+(42.388308213400002, -71.119509614500004)",42.38830821,-71.11950961,"Lesley University Art Institute TIS, Nov. 2010",,,,,,,,,,,,,,,,,,,,,21188,,,,,,,,,,,,,,,,,,,,,,,,,,,,1603,,,,,,,,,,,,,,,,,,,,,,,,,,,,1756,,,,,,,,
+274,Route 2,Route 2,"West of Alewife Brook Parkway
+(42.398105618499898, -71.143125726600005)",42.39810562,-71.14312573,"Residences at Route 2 TIS, Jan 08 and Dec. 10.",,,,,,,,,,,,,,,,,,,57940,,53367,,,,,,,,,,,,,,,,,,,,,,,,,,4030,,3021,,,,,,,,,,,,,,,,,,,,,,,,,,4440,,4088,,,,,,,,
+275,Putnam Avenue,PUTNAM AVE,"West of Sidney Street
+(42.356742157100001, -71.106930914800003)",42.35674216,-71.10693091,"CDD Cambridgeport Traffic Volume counts, Vollmer Associates.",,,,,,,2554,,,,,,,,,,1774,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+276,Henry Street,HENRY ST,"East of Brookline Street
+(42.355779764200001, -71.109369277900001)",42.35577976,-71.10936928,"CDD Cambridgeport Traffic Counts, Vollmer Associates Memo, Oct. 31, 2006.",,,,,,,6407,,,,,,7814,8379,,,246,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+277,Waverly Street,Waverly St,"South of Erie Street
+(42.357239906899899, -71.104123599999895)",42.35723991,-71.1041236,"CDD Cambridgeport Traffic Volume counts, Volmer Associates.  TPT Cambridgeport ADT's May 2011.",,,,,,,3214,,,,,,3764,3487,,,3099,,,,,3602,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+278,Albany Street,ALBANY ST,"South of Pacific Street
+(42.358910876300001, -71.100276083500006)",42.35891088,-71.10027608,"CDD Cambridgeport Traffic Volume counts, Volmer Associates.  TPT Cambridgeport ADT's May 2011.",,,,,,,3899,,,,,,4981,4369,,,4954,,,,,5988,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+279,Sidney Street,SIDNEY ST,"North of Putnam Ave.
+(42.356775543200001, -71.106573159899895)",42.35677554,-71.10657316,"CDD Cambridgeport Traffic Volume counts, Volmer Associates.",,,,,,,5781,,,,,,,,,,4640,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+280,Granite Street,GRANITE ST,"West of Brookline Street
+(42.355189000300001, -71.110597000499894)",42.355189,-71.110597,"CDD Cambridgeport Traffic Volume counts, Volmer Associates.  TPT Cambridgeport ADT's May 2011.",,,,,,,4697,,,,,,,,,,4270,,,,,3240,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+282,Waverly Street,Waverly St,"East of Brookline Street
+(42.355155000400003, -71.110113000200002)",42.355155,-71.110113,"CDD Cambridgeport Traffic Counts, Vollmer Associates Memo, Oct. 31, 2006.",,,,,,,,,,,,,,,,,5828,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+283,Green Street,GREEN ST,"West of Pearl Street
+(42.3643968067, -71.1035831409)",42.36439681,-71.10358314,"CDD Cambridgeport Traffic Counts, Vollmer Associates Memo, Oct. 31, 2006.  TPT Cambridgeport ADT's May 2011.300 Mass. Avenue TIS, May 2013 (counts done in April 2013).",,,,,,,,,,,,,4915,5153,,,4064,,,,,4122,,3666,,,,,,,,,,,,,,,,,,,,,,,,,,,,213,,,,,,,,,,,,,,,,,,,,,,,,,,,,386,,,,,
+284,Erie Street,ERIE ST,"West of Waverly Street
+(42.357932940700003, -71.104152850399899)",42.35793294,-71.10415285,"CDD Cambridgeport Traffic Counts, Vollmer Associates Memo, Oct. 31, 2006.  TPT Cambridgeport ADT's May 2011.",,,,,,,,,,,,,1312,1308,,,2268,,,,,2846,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+285,Putnam Avenue,PUTNAM AVE,"West of Brookline Street
+(42.357535755400001, -71.108316937300003)",42.35753576,-71.10831694,"CDD Cambridgeport Traffic Counts, Vollmer Associates Memo, Oct. 31, 2006.  TPT Cambridgeport ADT's May 2011.",,,,,,,,,,,,,3583,3825,,,2929,,,,,4376,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+286,Sidney Street,SIDNEY ST,"South of Putnam Avenue
+(42.356461959599898, -71.106909803299899)",42.35646196,-71.1069098,"CDD Cambridgeport Traffic Counts, Vollmer Associates Memo, Oct. 31, 2006.  TPT Cambridgeport ADT's May 2011. 240 Sidney Street TIS, Jan 3, 2013.  Counts done Sept. 2012.",,,,,,,,,,,,,5065,4748,,,3891,,,,,3248,,3508,,,,,,,,,,,,,,,,,,,,,,,,,,,,233,,,,,,,,,,,,,,,,,,,,,,,,,,,,377,,,,,
+287,Brookline Street,BROOKLINE ST,"North of Henry Street
+(42.356112429, -71.109369469900003)",42.35611243,-71.10936947,"CDD Cambridgeport Traffic Counts, Vollmer Associates Memo, Oct. 31, 2006.  TPT Cambridgeport ADT's May 2011.",,,,,,,,,,,,,5280,5987,,,6142,,,,,4650,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+288,Pearl Street,PEARL ST,"North of Putnam Avenue
+(42.358419867099897, -71.109407589400007)",42.35841987,-71.10940759,"CDD Cambridgeport Traffic Counts, Vollmer Associates Memo, Oct. 31, 2006.  TPT Cambridgeport ADT's May 2011.",,,,,,,,,,,,,3109,2742,,,2746,,,,,1997,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+289,Magazine Street,MAGAZINE ST,"South of Putnam Avenue
+(42.3589198495999, -71.111290742400001)",42.35891985,-71.11129074,"CDD Cambridgeport Traffic Counts, Vollmer Associates Memo, Oct. 31, 2006.  TPT Cambridgeport ADT's May 2011.",,,,,,,,,,,,,4837,3843,,,3728,,,,,3742,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+290,Franklin Street,FRANKLIN ST,"West of Brookline Street
+(42.363057258399898, -71.102742380400002)",42.36305726,-71.10274238,"CDD Cambridgeport Traffic Counts, Vollmer Associates Memo, Oct. 31, 2006. 300 Mass. Avenue TIS, May 2013 (counts done in April 2013).",,,,,,,,,,,,,2737,2396,,,2103,,,,,,,2318,,,,,,,,,,,,,,,,,,,,,,,,,,,,235,,,,,,,,,,,,,,,,,,,,,,,,,,,,162,,,,,
+291,Auburn Street,AUBURN ST,"West of Brookline Street
+(42.362527553200003, -71.103309248900004)",42.36252755,-71.10330925,"CDD Cambridgeport Traffic Counts, Vollmer Associates Memo, Oct. 31, 2006.",,,,,,,,,,,,,860,679,,,581,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+292,Hamilton Street,HAMILTON ST,"West of Brookline Street
+(42.358851246699899, -71.1070924056)",42.35885125,-71.10709241,"CDD Cambridgeport Traffic Counts, Vollmer Associates Memo, Oct. 31, 2006.",,,,,,,,,,,,,795,748,,,630,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+293,Allston Street,Allston St,"West of Brookline Street
+(42.358297447399899, -71.107594569599897)",42.35829745,-71.10759457,"CDD Cambridgeport Traffic Counts, Vollmer Associates Memo, Oct. 31, 2006.  TPT Cambridgeport ADT's May 2011.",,,,,,,,,,,,,886,689,,,626,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+294,Chestnut Street,CHESTNUT ST,"West of Brookline Street
+(42.356774565999899, -71.109053786100006)",42.35677457,-71.10905379,"CDD Cambridgeport Traffic Counts, Vollmer Associates Memo, Oct. 31, 2006.",,,,,,,,,,,,,772,738,,,530,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+295,Pleasant Street,PLEASANT ST,"North or East of Florence Street
+(42.359195999999898, -71.113815000299894)",42.359196,-71.113815,"CDD Cambridgeport Traffic counts, Vollmer Associates Memo, Oct. 31, 2006 for 02, 03,06 counts. Signal at Memorial/Pleasant insrtalled 2002.  TPT Cambridgeport ADT's May 2011.",,,,,,,,,,,,,1870,2140,,,2816,,,,,2612,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+296,Pleasant Street,PLEASANT ST,"North or East of Putnam Avenue
+(42.360278106700001, -71.1126125376)",42.36027811,-71.11261254,"784 Memorial Drive (Polaroid) Aug. 1997 count listed in 1999 TIS.CDD Cambridgeport counts, Vollmer memo Oct. 31, 2006 for 02, 03, 06. Signal at Memorial Drive at Pleasant installed in 2002.  TPT Cambridgeport ADT's May 2011.",,,,,,,,812,,,,,744,904,,,900,,,,,767,,,,,,,,,,,,,,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,108,,,,,,,,,,,,,,,,,,,,,
+297,Pleasant Street,PLEASANT ST,"South or West of Florence St.
+(42.359061433500003, -71.114260383599898)",42.35906143,-71.11426038,"1997 784  Memorial Drive (Polaroid) TIS, counts done in Aug. 1997. 1998 Cordon Count. Signal at Pleasant at Memorial installed 2002.",,,,,,,,895,1131,,,,,,,,,,,,,,,,,,,,,,,,,,,102,82,,,,,,,,,,,,,,,,,,,,,,,,,,,219,65,,,,,,,,,,,,,,,,,,,,
+298,Columbus Avenue,Columbus Avenue,"South of Massachsuettts Avenue
+(42.400549023300002, -71.135732083600004)",42.40054902,-71.13573208,"Tyler Green Residential Development TIS, Aug. 2011 (counts April 2011).",,,,,,,,,,,,,,,,,,,,,,1190,,,,,,,,,,,,,,,,,,,,,,,,,,,,68,,,,,,,,,,,,,,,,,,,,,,,,,,,,44,,,,,,,
+299,Magoun Street,MAGOUN ST,"South of Massachusetts Avenue
+(42.400231999900001, -71.135223999700003)",42.400232,-71.135224,"Tyler Green Residential Development TIS, Aug. 2011 (counts April 2011).",,,,,,,,,,,,,,,,,,,,,,312,,,,,,,,,,,,,,,,,,,,,,,,,,,,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,43,,,,,,,
+300,Brookford Street,BROOKFORD ST,"South of Massachusetts Avenue
+(42.399719526699897, -71.134133442099895)",42.39971953,-71.13413344,"Tyler Green Residential Development TIS, Aug. 2011 (counts April 2011).",,,,,,,,,,,,,,,,,,,,,,186,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,
+301,Cottage Park Avenue,Cottage Park Avenue,"South of Massachusetts Avenue
+(42.399275081699898, -71.133153105600002)",42.39927508,-71.13315311,"Tyler Green Residential Development TIS, Aug. 2011 (counts April 2011).",,,,,,,,,,,,,,,,,,,,,,332,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,,,,,,,
+302,Edmunds Street,EDMUNDS ST,"South of Massachusetts Avenue
+(42.398688, -71.132439000100007)",42.398688,-71.132439,"Tyler Green Residential Development TIS, Aug. 2011 (counts April 2011).",,,,,,,,,,,,,,,,,,,,,,260,,,,,,,,,,,,,,,,,,,,,,,,,,,,54,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,,,,,,,
+303,Tyler Court,Tyler Court,"South of Massachusetts Avenue
+(42.3980999143999, -71.131561004600002)",42.39809991,-71.131561,"Tyler Green Residential Development TIS, Aug. 2011 (counts April 2011).",,,,,,,,,,,,,,,,,,,,,,363,,,,,,,,,,,,,,,,,,,,,,,,,,,,53,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,,,,,,,
+304,Whittemore Avenue,WHITTERMORE ST,"West of Madison Avenue
+(42.3985744995, -71.136343491700003)",42.3985745,-71.13634349,"Tyler Green Residential Development TIS, Aug. 2011 (counts April 2011).Sept. 2012 follow up counts for Tyler Green TIS.",,,,,,,,,,,,,,,,,,,,,,1027,454,,,,,,,,,,,,,,,,,,,,,,,,,,,74,47,,,,,,,,,,,,,,,,,,,,,,,,,,,84,45,,,,,,
+305,Columbia Street,COLUMBIA ST,"North of Bishop Allen Drive
+(42.364344665700003, -71.099367607700003)",42.36434467,-71.09936761,"TPT Cambridgeport ADT's May 2011. Mass + Main TIS, August 2016. (counts from May, 2016)",,,,,,,,,,,,,,,,,,,,,,6448,,,,,6943,,,,,,,,,,,,,,,,,,,,,,,,,,,,506,,,,,,,,,,,,,,,,,,,,,,,,,,,,582,,
+306,Windsor Street,WINDSOR ST,"North of School Street
+(42.364044332399899, -71.096591786800005)",42.36404433,-71.09659179,TPT Cambridgeport ADT's May 2011.,,,,,,,,,,,,,,,,,,,,,,4830,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+307,Windsor Street,WINDSOR ST,"South of State Street
+(42.362392723200003, -71.096839413300003)",42.36239272,-71.09683941,"Novartis Expansion TIS, Sept. 2011. counts from May 2011.",,,,,,,,,,,,,,,,,,,,,,3899,,,,,,,,,,,,,,,,,,,,,,,,,,,,319,,,,,,,,,,,,,,,,,,,,,,,,,,,,376,,,,,,,
+308,Osborn Street,Osborn Street,"South of State Street
+(42.362289754700001, -71.095433958399894)",42.36228975,-71.09543396,"Novartis Expansion TIS, Sept. 2011. Counts done in May 2011.",,,,,,,,,,,,,,,,,,,,,,222,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,22,,,,,,,
+309,State Street,STATE ST,"West of Osborn Street
+(42.362453770599899, -71.095577430199896)",42.36245377,-71.09557743,"Novartis Expansion TIS, Sept. 2011. Counts done in May 2011.",,,,,,,,,,,,,,,,,,,,,,487,,,,,,,,,,,,,,,,,,,,,,,,,,,,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,61,,,,,,,
+310,Prospect Street,PROSPECT ST,"South of Hampshire Street
+(42.3718770191999, -71.099212339100006)",42.37187702,-71.09921234,Data from City study of before and after Prospect lane marking changes in 2012. Study done by Jeff Parenti.,,,,,,,,,,,,,,18413,,,,,,,,,16880,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+311,Putnam Avenue,PUTNAM AVE,"West of Waverly Street
+(42.3560932940999, -71.105792669300001)",42.35609329,-71.10579267,"240 Sidney Street TIS, Jan 3, 2013.  Counts done Sept. 2012.",,,,,,,,,,,,,,,,,,,,,,,1394,,,,,,,,,,,,,,,,,,,,,,,,,,,,155,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,,,,,
+312,Allston Street,Allston St,"Between Pearl Street and Brookline Street
+(42.358512678499899, -71.107968141599898)",42.35851268,-71.10796814,"240 Sidney Street TIS, Jan 3, 2013.  Counts done Sept. 2012.",,,,,,,,,,,,,,,,,,,,,,,569,,,,,,,,,,,,,,,,,,,,,,,,,,,,61,,,,,,,,,,,,,,,,,,,,,,,,,,,,34,,,,,,
+314,Brookline Street,BROOKLINE ST,"South of Putnam Avenue
+(42.357249270600001, -71.108131592899895)",42.35724927,-71.10813159,"CDD Cambridgeport Traffic Volume counts, Volmer Associates (1996 and 2006). 240 Sidney Street TIS, Jan 3, 2013.  Counts done Sept. 2012.",,,,,,,6847,,,,,,,,,,4208,,,,,,5151,,,,,,,,,,,,,,,,,,,,,,,,,,,,372,,,,,,,,,,,,,,,,,,,,,,,,,,,,502,,,,,,
+315,Putnam Avenue,PUTNAM AVE,"North of Pedestrian Crossing in front of Martin Luther King School.
+(42.3674264924, -71.113520467499896)",42.36742649,-71.11352047,"Martin Luther King Jr. School, Traffic Impact Study, Nitsch Engineering, January 2013. Counts done in April 2012.",,,,,,,,,,,,,,,,,,,,,,,6642,,,,,,,,,,,,,,,,,,,,,,,,,,,,451,,,,,,,,,,,,,,,,,,,,,,,,,,,,470,,,,,,
+316,Magee Street,MAGEE ST,"East of Putnam Avenue
+(42.366405091200001, -71.113297893600006)",42.36640509,-71.11329789,"Martin Luther King Jr. School, Traffic Impact Study, Nitsch Engineering, January 2013. Counts done in April 2012.",,,,,,,,,,,,,,,,,,,,,,,439,,,,,,,,,,,,,,,,,,,,,,,,,,,,53,,,,,,,,,,,,,,,,,,,,,,,,,,,,42,,,,,,
+317,Kinnaird Street,KINNAIRD ST,"Between Martin Luther King Jr. School driveways.
+(42.367589999700002, -71.112536000199896)",42.36759,-71.112536,"Martin Luther King Jr. School, Traffic Impact Study, Nitsch Engineering, January 2013. Counts done in April 2012.",,,,,,,,,,,,,,,,,,,,,,,1032,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,,,,,,,,,,,,,,,,,,,,,,,,,,,,91,,,,,,
+319,Cambridgepark Drive,CAMBRIDGE PARK DRIVE,"West of Alewife Station Access Road (Steel Place).
+(42.394639878699898, -71.142832928000004)",42.39463988,-71.14283293,"130 Cambridgepark Drive TIS, Feb. 15, 2013. ATR counts done Dec. 5, 2012.35 CPD Traffic study (counts June 2016)",,,,,,,,,,,,,,,,,,,,,,,4327,,,,5689,,,,,,,,,,,,,,,,,,,,,,,,496,,,,584,,,,,,,,,,,,,,,,,,,,,,,,379,,,,525,,
+320,Leighton Street,LEIGHTON ST,"South of Glassworks Avenue
+(42.370345866599898, -71.073541625100006)",42.37034587,-71.07354163,"North Point 2012 Traffic monitoring report, VHB.",,,,,,,,,,,,,,,,,,,,,,,830,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+321,North Point Boulevard,North Point Blvd,"Below the Gilmore Bridge, West of Museum Way
+(42.370812647500003, -71.071826806600001)",42.37081265,-71.07182681,"North Point 2012 Monitoring Report, VHB. EF Education First DEIR 2016- counts in Sept. 2016.",,,,,,,,,,,,,,,,,,,,,,,1958,,,,4063,,,,,,,,,,,,,,,,,,,,,,,,,,,,417,,,,,,,,,,,,,,,,,,,,,,,,,,,,372,,
+322,North Point Boulevard,North Point Blvd,"West of Education Street
+(42.3699210001, -71.069907999999899)",42.369921,-71.069908,"EF Campus Expansion TIS, counts done Dec. 2010.",,,,,,,,,,,,,,,,,,,,,570,,,,,,,,,,,,,,,,,,,,,,,,,,,,48,,,,,,,,,,,,,,,,,,,,,,,,,,,,50,,,,,,,,
+323,Education Street,EDUCATION ST,"North of North Point Blvd.
+(42.369897590400001, -71.069623555999897)",42.36989759,-71.06962356,"EF Campus Expansion TIS, counts done Dec. 2010.",,,,,,,,,,,,,,,,,,,,,371,,,,,,,,,,,,,,,,,,,,,,,,,,,,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,41,,,,,,,,
+324,Museum Way,MUSEUM WAY,"North of O'Brien Highway
+(42.369000999599898, -71.072146999699896)",42.369001,-71.072147,"North Point 2012 Traffic Monitoring report, VHB. EF Eduction First TIS, 2016. counts Sept. 2016.",,,,,,,,,,,,,,,,,,,,,,,3752,,,,5847,,,,,,,,,,,,,,,,,,,,,,,,282,,,,467,,,,,,,,,,,,,,,,,,,,,,,,305,,,,448,,
+325,Sidney Street,SIDNEY ST,"South of Massachusetts Ave.
+(42.3626870485, -71.099910249000004)",42.36268705,-71.09991025,April 2013 counts from 300 Mass. Ave TIS.,,,,,,,,,,,,,,,,,,,,,,,,4918,,,,,,,,,,,,,,,,,,,,,,,,,,,,411,,,,,,,,,,,,,,,,,,,,,,,,,,,,369,,,,,
+326,Richdale Avenue,RICHDALE AVE,"Between Upland Rd. and Walden St.
+(42.3878809660999, -71.123431437500003)",42.38788097,-71.12343144,"15-33 Richdale Avenue TIS, July 2013. (counts done May 22&23, 2013).",,,,,,,,,,,,,,,,,,,,,,,,1159,,,,,,,,,,,,,,,,,,,,,,,,,,,,77,,,,,,,,,,,,,,,,,,,,,,,,,,,,108,,,,,
+327,New Street,NEW ST,"South of Denehy Park
+(42.388162999599899, -71.140642999999898)",42.388163,-71.140643,"75 New Street, TIS, August 5, 2013. New Street counts done Sept. 2012.",,,,,,,,,,,,,,,,,,,,,,,5123,,,,,,,,,,,,,,,,,,,,,,,,,,,,291,,,,,,,,,,,,,,,,,,,,,,,,,,,,566,,,,,,
+328,Bay State Road,BAY STATE ROAD,"East of New Street
+(42.387163747999899, -71.140646727800004)",42.38716375,-71.14064673,"75 New Street TIS, August 2013. Counts done May 2012.",,,,,,,,,,,,,,,,,,,,,,,5336,,,,,,,,,,,,,,,,,,,,,,,,,,,,397,,,,,,,,,,,,,,,,,,,,,,,,,,,,572,,,,,,
+329,Thorndike Street,THORNDIKE ST,"West of First Street
+(42.369340797500001, -71.077708095399899)",42.3693408,-71.0777081,"Courthouse Redevelopment TIS, Oct. 2013. (counts, May 2013)",,,,,,,,,,,,,,,,,,,,,,,,2897,,,,,,,,,,,,,,,,,,,,,,,,,,,,140,,,,,,,,,,,,,,,,,,,,,,,,,,,,265,,,,,
+330,Spring Street,SPRING ST,"West of First Street
+(42.368636735800003, -71.077863453000006)",42.36863674,-71.07786345,"Courthouse Redevelopment TIS, Oct. 2013. (counts, May 2013)",,,,,,,,,,,,,,,,,,,,,,,,2114,,,,,,,,,,,,,,,,,,,,,,,,,,,,335,,,,,,,,,,,,,,,,,,,,,,,,,,,,102,,,,,
+331,Second Street,SECOND ST,"South of Thorndike Street
+(42.369227019500002, -71.078967533799897)",42.36922702,-71.07896753,"Courthouse TIS, Oct 2013 (counts May 2013).",,,,,,,,,,,,,,,,,,,,,,,,2105,,,,,,,,,,,,,,,,,,,,,,,,,,,,171,,,,,,,,,,,,,,,,,,,,,,,,,,,,198,,,,,
+332,First Street,FIRST ST,"North of Charles Street
+(42.367454842000001, -71.077666224699897)",42.36745484,-71.07766622,"Courthouse TIS, Oct 2013 (counts May 2013).",,,,,,,,,,,,,,,,,,,,,,,,8427,,,,,,,,,,,,,,,,,,,,,,,,,,,,548,,,,,,,,,,,,,,,,,,,,,,,,,,,,610,,,,,
+333,Second Street,SECOND ST,"North of Charles Street
+(42.367617982399899, -71.079362815799897)",42.36761798,-71.07936282,"Courthouse TIS, Oct 2013 (counts May 2013).",,,,,,,,,,,,,,,,,,,,,,,,1874,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+334,Third Street,THIRD ST,"North of Charles Street
+(42.3680106756999, -71.080780676299895)",42.36801068,-71.08078068,"Courthouse TIS, Oct 2013 (counts May 2013).",,,,,,,,,,,,,,,,,,,,,,,,9164,,,,,,,,,,,,,,,,,,,,,,,,,,,,752,,,,,,,,,,,,,,,,,,,,,,,,,,,,818,,,,,
+335,Memorial Drive,MEMORIAL DR,"East of JFK Street
+(42.369713999699897, -71.121709999999894)",42.369714,-71.12171,"Functional Design Report for Rehab of Anderson Bridge, MassDot, by FST, August, 2010.",,,,,,,,,,,,,,,,,,,,,20800,,,,,,,,,,,,,,,,,,,,,,,,,,,,1670,,,,,,,,,,,,,,,,,,,,,,,,,,,,1520,,,,,,,,
+336,Cardinal Mediros,CARDINAL MEDERIOS AVE,"North of Vandine Street
+(42.368886000000003, -71.090295999999995)",42.368886,-71.090296,"399 Binney Street TIS, 2015, counts in Oct. 2015.",,,,,,,,,,,,,,,,,,,,,,,,,,7350,,,,,,,,,,,,,,,,,,,,,,,,,,,,512,,,,,,,,,,,,,,,,,,,,,,,,,,,,572,,,
+337,Cardinal Medeiros Avenue,CARDINAL MEDEIROS AVE,"South of Binney Street
+(42.367558000000002, -71.091033999999993)",42.367558,-71.091034,"399 Binney Street TIS, 2015, counts in Oct. 2015.",,,,,,,,,,,,,,,,,,,,,,,,,,9700,,,,,,,,,,,,,,,,,,,,,,,,,,,,751,,,,,,,,,,,,,,,,,,,,,,,,,,,,828,,,
+338,Massachusetts Avenue,MASS AVE,"South of Douglas Street, North of Sidney Street
+(42.363312999999998, -71.100178)",42.363313,-71.100178,"DPW counts for Parking Lot 6 construction. ATR counts week of April 26, 2016.",,,,,,,,,,,,,,,,,,,,,,,,,,,14190,,,,,,,,,,,,,,,,,,,,,,,,,,,,818,,,,,,,,,,,,,,,,,,,,,,,,,,,,912,,2016
+339,Massachusetts Avenue,MASS AVE,"North of Sidney Street at Quest Site
+(42.363348999999999, -71.100252999999995)",42.363349,-71.100253,"Mass + Main TIS, August 2016. (counts from May, 2016)",,,,,,,,,,,,,,,,,,,,,,,,,,0,12879,,,,,,,,,,,,,,,,,,,,,,,,,,,0,698,,,,,,,,,,,,,,,,,,,,,,,,,,,0,754,,
+340,Bishop Allen Drive,BISHOP ALLEN DR,"Between Columbia Street and Douglas Street
+(42.364412000000002, -71.099900000000005)",42.364412,-71.0999,"Mass + Main TIS, August 2016. (counts from May, 2016)",,,,,,,,,,,,,,,,,,,,,,,,,,0,5970,,,,,,,,,,,,,,,,,,,,,,,,,,,0,377,,,,,,,,,,,,,,,,,,,,,,,,,,,0,579,,
+341,Bishop Allen Drive,BISHOP ALLEN DR,"Between Douglas Street and Norfolk Street.
+(42.364902999999998, -71.100748999999993)",42.364903,-71.100749,"Mass + Main TIS, August 2016. (counts from May, 2016)v",,,,,,,,,,,,,,,,,,,,,,,,,,0,4579,,,,,,,,,,,,,,,,,,,,,,,,,,,0,290,,,,,,,,,,,,,,,,,,,,,,,,,,,0,374,,
+342,Massachusetts Avenue,MASS AVE,"East of Cameron Ave
+(42.39716, -71.130018000000007)",42.39716,-71.130018,"Transit Priority Study by CDD, May 2016.  Counts are an average of Wednesday, May 11 and Thursday, May 12, 2016.",,,,,,,,,,,,,,,,,,,,,,,,,,0,24264,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1678,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1780,,
+343,Massachusetts Avenue,MASS AVE,"West of Russell Street
+(42.392038999999997, -71.124207999999996)",42.392039,-71.124208,"Transit Priority Study by CDD, May 2016.  Counts are an average of Wednesday, May 11 and Thursday, May 12, 2016.",,,,,,,,,,,,,,,,,,,,,,,,,,0,21941,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1346,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1366,,
+344,Massachusetts Avenue,MASS AVE,"North of Sacramento Street
+(42.382860999999998, -71.119552999999996)",42.382861,-71.119553,"Transit Priority Study by CDD, May 2016.  Counts are an average of Wednesday, May 11 and Thursday, May 12, 2016.",,,,,,,,,,,,,,,,,,,,,,,,,,0,18316,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1255,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1351,,
+345,Massachusetts Avenue,MASS AVE,"East of Hancock Street
+(42.368262000000001, -71.108543999999995)",42.368262,-71.108544,"Transit Priority Study by CDD, May 2016.  Counts are an average of Wednesday, May 11 and Thursday, May 12, 2016.",,,,,,,,,,,,,,,,,,,,,,,,,,0,11174,,,,,,,,,,,,,,,,,,,,,,,,,,,0,722,,,,,,,,,,,,,,,,,,,,,,,,,,,0,774,,
+346,Massachusetts Avenue,MASS AVE,"North of Amherst Street
+(42.358347000000002, -71.093180000000004)",42.358347,-71.09318,"Transit Priority Study by CDD, May 2016. Counts are an average of Wednesday, May 11 and Thursday, May 12, 2016.",,,,,,,,,,,,,,,,,,,,,,,,,,0,21466,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1252,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1246,,
+347,Acorn Park Drive,ACCESS RD,"East of Frontage Road
+(42.400798000000002, -71.153369999999995)",42.400798,-71.15337,"Cambridge Discovery Park TIS, September, 2004.",,,,,,,,,,,,,,,960,,,,,,,,,,,,,,,,,,,,,,,,,,,,364,,,,,,,,,,,,,,,,,,,,,,,,,,,,288,,,,,,,,,,,,,,
+348,Route 2,Route 2,"West of Acorn Park Drive
+(42.401173999999997, -71.153240999999994)",42.401174,-71.153241,"Residences at Alewife Station (VoxII) TIS, Nov. 2016 (counts Sept. 2016).",,,,,,,,,,,,,,,,,,,,,,,,,,0,76582,,,,,,,,,,,,,,,,,,,,,,,,,,,0,5026,,,,,,,,,,,,,,,,,,,,,,,,,,,0,5452,,
+349,Massachusetts Avenue,MASS AVE,"East of Prospect Street
+(42.365394000000002, -71.10369)",42.365394,-71.10369,"Central Square Improvements Master Plan, CDD, 1995(counts in fall 1994).",,,,,21900,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,1210,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,1480,,,,,,,,,,,,,,,,,,,,,0,0,,
+350,Massachusetts Avenue,MASS AVE,"East of Bigelow Street
+(42.366860000000003, -71.106127000000001)",42.36686,-71.106127,"Central Square Improvements Master Plan, CDD, 1995(counts in fall 1994).",,,,,18130,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,1040,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,1310,,,,,,,,,,,,,,,,,,,,,0,0,,
+351,Main Street,MAIN ST,"North of Columbia
+(42.363433000000001, -71.099501000000004)",42.363433,-71.099501,"Central Square Improvements Master Plan, CDD, 1995(counts in fall 1994).",,,,,8870,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,580,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,820,,,,,,,,,,,,,,,,,,,,,0,0,,
+352,Prospect Street,PROSPECT ST,"North of Bishop Allen Drive
+(42.366604000000002, -71.102940000000004)",42.366604,-71.10294,"Central Square Improvements Master Plan, CDD, 1995(counts in fall 1994).",,,,,23400,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,1400,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,1700,,,,,,,,,,,,,,,,,,,,,0,0,,
+353,River Street,RIVER ST,"South of Auburn Street
+(42.364493000000003, -71.106927999999996)",42.364493,-71.106928,"Central Square Improvements Master Plan, CDD, 1995(counts in fall 1994).",,,,,15040,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,1020,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,1190,,,,,,,,,,,,,,,,,,,,,0,0,,
+354,Magazine Street,MAGAZINE ST,"South of Auburn Street
+(42.363877000000002, -71.105833000000004)",42.363877,-71.105833,"Central Square Improvements Master Plan, CDD, 1995(counts in fall 1994).",,,,,3880,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,330,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,300,,,,,,,,,,,,,,,,,,,,,0,0,,
+355,Inman Street,INMAN ST,"North of Bishop Allen Drive
+(42.367503999999997, -71.104709999999997)",42.367504,-71.10471,"Central Square Improvements Master Plan, CDD, 1995(counts in fall 1994).",,,,,6090,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,580,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,490,,,,,,,,,,,,,,,,,,,,,0,0,,
+356,Pleasant Street,PLEASANT ST,"North of Franklin Street
+(42.365496, -71.106477999999996)",42.365496,-71.106478,"Central Square Improvements Master Plan, CDD, 1995(counts in fall 1994).",,,,,6460,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,510,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,470,,,,,,,,,,,,,,,,,,,,,0,0,,
+357,Pearl Street,PEARL ST,"North of Auburn Street
+(42.363239, -71.104206000000005)",42.363239,-71.104206,"Central Square Improvements Master Plan, CDD, 1995(counts in fall 1994).",,,,,4610,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,340,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,410,,,,,,,,,,,,,,,,,,,,,0,0,,
+358,Brookline Street,BROOKLINE ST,"South of Auburn Street
+(42.362248000000001, -71.103036000000003)",42.362248,-71.103036,"Central Square Improvements Master Plan, CDD, 1995(counts in fall 1994).",,,,,7830,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,580,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,670,,,,,,,,,,,,,,,,,,,,,0,0,,
+359,Wheeler Street,WHEELER ST,"North of Concord Ave.
+(42.388936000000001, -71.144114000000002)",42.388936,-71.144114,"55 Wheeler Street TIS, counts Oct. 5-6, 2016.",,,,,,,,,,,,,,,,,,,,,,,,,,,613,,,,,,,,,,,,,,,,,,,,,,,,,,,0,108,,,,,,,,,,,,,,,,,,,,,,,,,,,0,85,,
+360,Alewife Brook Parkway,ALEWIFE BROOK PARKWAY,"North of Concord Ave
+(42.389612999999997, -71.142521000000002)",42.389613,-71.142521,55 Wheeler St TIS. 10/16 counts.,,,,,,,,,,,,,,,,,,,,,,,,,,,50738,,,,,,,,,,,,,,,,,,,,,,,,,,,0,3314,,,,,,,,,,,,,,,,,,,,,,,,,,,0,3068,,
+361,Cambridge Street,CAMBRIDGE ST,"West of Berkshire Street
+(42.372351000000002, -71.090063999999998)",42.372351,-71.090064,"King Open/Cambridge Street Schools Traffic Study, 2016. counts on March 2 and 3, 2016.",,,,,,,,,,,,,,,,,,,,,,,,,,,12785,,,,,,,,,,,,,,,,,,,,,,,,,,,,804,,,,,,,,,,,,,,,,,,,,,,,,,,,,861,,
+362,Willow Street,WILLOW ST,"South of Cambridge Street
+(42.372262999999997, -71.092003000000005)",42.372263,-71.092003,"King Open/Cambridge Street Schools Traffic Study, 2016. counts on March 2 and 3, 2016.",,,,,,,,,,,,,,,,,,,,,,,,,,,657,,,,,,,,,,,,,,,,,,,,,,,,,,,,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,65,,
+364,Berkshire Street,BERKSHIRE ST,"South of Marcella Street
+(42.371474999999997, -71.090243000000001)",42.371475,-71.090243,"King Open/Cambridge Street Schools Traffic Study, 2016. counts on March 2 and 3, 2016.",,,,,,,,,,,,,,,,,,,,,,,,,,,1432,,,,,,,,,,,,,,,,,,,,,,,,,,,,86,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,,
